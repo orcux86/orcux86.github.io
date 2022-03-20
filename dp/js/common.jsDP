@@ -1,0 +1,6 @@
+$(document).ready(function(){
+	// Disabling Right Click over the web page
+	$(document).bind("contextmenu",function(e){
+		return false;
+	});
+});

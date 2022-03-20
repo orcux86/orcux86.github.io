@@ -1,0 +1,29 @@
+@charset "utf-8";
+/*
+ * @Author: Diego Pereira Espinoza
+ * @Email: orcux86@gmail.com
+ * @Date: December 02, 2011
+ */
+/* CSS Document */
+
+.bgcolor {/*72*/
+	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#72cb47', endColorstr='#ffffff');*/ /* For Internet Explorer 5.5 - 7 */
+	/*-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#72cb47', endColorstr='#ffffff')";*/ /* For Internet Explorer 8 */
+}
+
+.transparent {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; /* IE 8 */
+	filter: alpha(opacity=50); /* IE 5-7 */
+	zoom: 1;
+}
+
+.header {/*77*/
+	background-color: #999999;
+	border-bottom: 1px solid #666666;
+	filter: alpha(opacity=50);
+	zoom: 1;
+}
+
+.site-nav ul {/*343*/
+	height: 100%;
+}

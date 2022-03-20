@@ -1,0 +1,47 @@
+@charset "utf-8";
+/*
+ * @Author: Diego Pereira Espinoza
+ * @Email: orcux86@gmail.com
+ * @Date: December 02, 2011
+ */
+/* CSS Document */
+
+.green .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#72cb47', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#72cb47', endColorstr='#ffffff')";
+}
+.pink .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff7ead', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff7ead', endColorstr='#ffffff')";
+}
+.blue .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3a9bee', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#3a9bee', endColorstr='#ffffff')";
+}
+.orange .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f48e33', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#f48e33', endColorstr='#ffffff')";
+}
+.purple .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c387e9', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#c387e9', endColorstr='#ffffff')";
+}
+
+.green .header, .pink .header, .blue .header, .orange .header, .purple .header {
+	filter: alpha(opacity=100);
+}
+.green .header {
+	background-color: #72cb47;
+}
+.pink .header {
+	background-color: #ff7ead;
+}
+.blue .header {
+	background-color: #3a9bee;
+}
+.orange .header {
+	background-color: #f48e33;
+}
+.purple .header {
+	background-color: #c387e9;
+}

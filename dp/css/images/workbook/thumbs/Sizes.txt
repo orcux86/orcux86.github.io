@@ -1,0 +1,3 @@
+css sizes, width and height
+thumb size: 520x180
+thumb content: 490x155

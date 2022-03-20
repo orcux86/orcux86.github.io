@@ -1,0 +1,71 @@
+@charset "utf-8";
+/*
+ * @Author: Diego Pereira Espinoza
+ * @Email: orcux86@gmail.com
+ * @Date: December 02, 2011
+ */
+/* CSS Document */
+
+.green .bgcolor {
+	background-color: #72cb47;
+}
+.pink .bgcolor {
+	background-color: #ff7ead;
+}
+.blue .bgcolor {
+	background-color: #3a9bee;
+}
+.orange .bgcolor {
+	background-color: #f48e33;
+}
+.purple .bgcolor {
+	background-color: #c387e9;
+}
+.green a {
+	color: #73c44b;
+}
+.green a:hover {
+	color: #559137;
+}
+.pink a {
+	color: #f26098;
+}
+.pink a:hover {
+	color: #b34572;
+}
+.blue a {
+	color: #4098e1;
+}
+.blue a:hover {
+	color: #3972a0;
+}
+.orange a {
+	color: #f38f42;
+}
+.orange a:hover {
+	color: #b46a30;
+}
+.purple a {
+	color: #b36cea;
+}
+.purple a:hover {
+	color: #745487;
+}
+.header a {
+	color: #ffffff;
+}
+.green .header a:hover, .green .header a.active {
+	color: #beff9d;
+}
+.pink .header a:hover, .pink .header a.active {
+	color: #ffc2da;
+}
+.blue .header a:hover, .blue .header a.active {
+	color: #bae0ff;
+}
+.orange .header a:hover, .orange .header a.active {
+	color: #ffd8b4;
+}
+.purple .header a:hover, .purple .header a.active {
+	color: #ebcaff;
+}
