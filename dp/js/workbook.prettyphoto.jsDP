@@ -7,67 +7,67 @@ jQuery(document).ready(function() {
     $("").prettyPhoto({ autoplay: false, deeplinking: false, social_tools: false });
 
     $("#zealcare").click(function() {
-        var api_gallery = ["../css/images/workbook/ZealCareRHI.png"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/ZealCareRHI.png"];
         var title = "", description = "";
         var api_titles = [title], api_descriptions = [description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#pcodr").click(function() {
-        var api_gallery = ["../css/images/workbook/pCODRCancerView.png"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/pCODRCancerView.png"];
         var title = "", description = "";
         var api_titles = [title], api_descriptions = [description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#smucker").click(function() {
-        var api_gallery = ["../css/images/workbook/SmuckerSupplier.png"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/SmuckerSupplier.png"];
         var title = "", description = "";
         var api_titles = [title], api_descriptions = [description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#ihgmerlin").click(function() {
-        var api_gallery = ["../css/images/workbook/IHGMerlin.png", "../css/images/workbook/IHGMerlinSearch.jpg"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/IHGMerlin.png", "https://orcux86.github.io/dp/css/images/workbook/IHGMerlinSearch.jpg"];
         var title = "", description = "";
         var api_titles = [title, title], api_descriptions = [description, description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#ybo").click(function() {
-        var api_gallery = ["../css/images/workbook/YourBreastOptions.png"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/YourBreastOptions.png"];
         var title = "", description = "";
         var api_titles = [title], api_descriptions = [description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#apus").click(function() {
-        var api_gallery = ["../css/images/workbook/APUSPilotProgram.png"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/APUSPilotProgram.png"];
         var title = "", description = "";
         var api_titles = [title], api_descriptions = [description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#butla").click(function() {
-        var api_gallery = ["../css/images/workbook/BUTLA.png", "../css/images/workbook/BUTLAFaculty.png", "../css/images/workbook/BUTLAStudent.png"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/BUTLA.png", "https://orcux86.github.io/dp/css/images/workbook/BUTLAFaculty.png", "https://orcux86.github.io/dp/css/images/workbook/BUTLAStudent.png"];
         var title = "", description = "";
         var api_titles = [title, title, title], api_descriptions = [description, description, description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#pearson").click(function() {
-        var api_gallery = ["../css/images/workbook/PearsonLibrary.png"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/PearsonLibrary.png"];
         var title = "", description = "";
         var api_titles = [title], api_descriptions = [description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#rbxcl").click(function() {
-        var api_gallery = ["../css/images/workbook/RBXCommonLibrary1.jpg", "../css/images/workbook/RBXCommonLibrary2.png", "../css/images/workbook/RBXCommonLibrary3.png", "../css/images/workbook/RBXCommonLibrary4.png", "../css/images/workbook/RBXCommonLibrary.swf?flashvars=var1=1&amp;var2=2"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary1.jpg", "https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary2.png", "https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary3.png", "https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary4.png", "https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary.swf?flashvars=var1=1&amp;var2=2"];
         var title = "", description = "";
         var api_titles = [title, title, title, title, title], api_descriptions = [description, description, description, description, description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#cengage").click(function() {
-        var api_gallery = ["../css/images/workbook/CengageOfficeTraining.jpg"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/CengageOfficeTraining.jpg"];
         var title = "", description = "";
         var api_titles = [title], api_descriptions = [description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);
     });
     $("#navsat").click(function() {
-        var api_gallery = ["../css/images/workbook/NavSatEzTrack1.png", "../css/images/workbook/NavSatEzTrack2.png", "../css/images/workbook/NavSatEzTrack3.png", "../css/images/workbook/NavSatEzTrack4.png", "../css/images/workbook/NavSatEzTrack5.png"];
+        var api_gallery = ["https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack1.png", "https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack2.png", "https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack3.png", "https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack4.png", "https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack5.png"];
         var title = "", description = "";
         var api_titles = [title, title, title, title, title], api_descriptions = [description, description, description, description, description];
         $.prettyPhoto.open(api_gallery, api_titles, api_descriptions);

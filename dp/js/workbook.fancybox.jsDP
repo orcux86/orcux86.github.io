@@ -13,40 +13,40 @@ jQuery(document).ready(function() {
     };
 
     $("#zealcare").click(function() {
-        $.fancybox(["../css/images/workbook/ZealCareRHI.png"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/ZealCareRHI.png"], config);
     });
     $("#pcodr").click(function() {
-        $.fancybox(["../css/images/workbook/pCODRCancerView.png"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/pCODRCancerView.png"], config);
     });
     $("#smucker").click(function() {
-        $.fancybox(["../css/images/workbook/SmuckerSupplier.png"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/SmuckerSupplier.png"], config);
     });
     $("#ihgmerlin").click(function() {
-        $.fancybox(["../css/images/workbook/IHGMerlin.png", "../css/images/workbook/IHGMerlinSearch.jpg"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/IHGMerlin.png", "https://orcux86.github.io/dp/css/images/workbook/IHGMerlinSearch.jpg"], config);
     });
     $("#ybo").click(function() {
-        $.fancybox(["../css/images/workbook/YourBreastOptions.png"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/YourBreastOptions.png"], config);
     });
     $("#apus").click(function() {
-        $.fancybox(["../css/images/workbook/APUSPilotProgram.png"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/APUSPilotProgram.png"], config);
     });
     $("#butla").click(function() {
-        $.fancybox(["../css/images/workbook/BUTLA.png", "../css/images/workbook/BUTLAFaculty.png", "../css/images/workbook/BUTLAStudent.png"/*, "../css/images/workbook/BUTLADesign.jpg"*/], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/BUTLA.png", "https://orcux86.github.io/dp/css/images/workbook/BUTLAFaculty.png", "https://orcux86.github.io/dp/css/images/workbook/BUTLAStudent.png"/*, "https://orcux86.github.io/dp/css/images/workbook/BUTLADesign.jpg"*/], config);
     });
     $("#pearson").click(function() {
-        $.fancybox(["../css/images/workbook/PearsonLibrary.png"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/PearsonLibrary.png"], config);
     });
     $("#rbxcl").click(function() {
-        $.fancybox(["../css/images/workbook/RBXCommonLibrary1.jpg", "../css/images/workbook/RBXCommonLibrary2.png", "../css/images/workbook/RBXCommonLibrary3.png", "../css/images/workbook/RBXCommonLibrary4.png"/*, {
-        "href" : "../css/images/workbook/RBXCommonLibrary.swf",
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary1.jpg", "https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary2.png", "https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary3.png", "https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary4.png"/*, {
+        "href" : "https://orcux86.github.io/dp/css/images/workbook/RBXCommonLibrary.swf",
         "autoScale" : false,
         "type" : "swf"
         }*/], config);
     });
     $("#cengage").click(function() {
-        $.fancybox(["../css/images/workbook/CengageOfficeTraining.jpg"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/CengageOfficeTraining.jpg"], config);
     });
     $("#navsat").click(function() {
-        $.fancybox(["../css/images/workbook/NavSatEzTrack1.png", "../css/images/workbook/NavSatEzTrack2.png", "../css/images/workbook/NavSatEzTrack3.png", "../css/images/workbook/NavSatEzTrack4.png", "../css/images/workbook/NavSatEzTrack5.png"], config);
+        $.fancybox(["https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack1.png", "https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack2.png", "https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack3.png", "https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack4.png", "https://orcux86.github.io/dp/css/images/workbook/NavSatEzTrack5.png"], config);
     });
 });
