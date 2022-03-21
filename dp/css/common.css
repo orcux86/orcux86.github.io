@@ -6,7 +6,7 @@
 */
 /* CSS Document */
 
-#header_container, #pre_content, #counter, #post_content, #below_content, #sidebar_container, #selfpromotionOverlay, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1 {
+#header_container, #nav_container, #title, #pre_content, #counter, #post_content, #below_content, #sidebar_container, #selfpromotionOverlay, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1 {
     display: none;
 }
 
