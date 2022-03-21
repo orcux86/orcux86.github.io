@@ -6,7 +6,7 @@
 */
 /* CSS Document */
 
-#header_container, #nav_container, #title, #pre_content, #counter, #post_content, #below_content, #sidebar_container, #selfpromotionOverlay, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1, #extraDiv1 {
+#header_container, #nav_container, #title, #pre_content, #counter, #post_content, #below_content, #sidebar_container, #selfpromotionOverlay, #extraDiv1, #extraDiv2, #extraDiv3, #extraDiv4, #extraDiv5, #extraDiv6 {
     display: none;
 }
 
@@ -332,8 +332,8 @@ p {
     position: absolute;
     width: 300px;
     left: 0;
-    top: -14px;
-    top: 26px;
+    bottom: 15px;
+    float: left;
 }
 .footer .logo {
     background: transparent url("images/logo-dp-footer.png") repeat 0 0;
@@ -372,7 +372,8 @@ p {
     text-align: right;
     width: 300px;
     right: 0;
-    top: 40px;
+    bottom: -63px;
+    float: right;
 }
 .contact-col ul {
     margin-bottom: 10px;
