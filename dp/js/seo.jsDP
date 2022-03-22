@@ -1,7 +1,18 @@
 /*
+Configurar una propiedad Google Analytics 4 junto con una propiedad Universal Analytics que ya exista
+https://support.google.com/analytics/answer/9744165?hl=es&utm_id=ad
+*/
+
+// propiedad Google Analytics 4, GA4
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-FSP66079B6', { 'send_page_view': true });
+
+// propiedad Universal Analytics, hasta el 1 de julio del 2023
 var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-28697416-1']);
-_gaq.push(['_setDomainName', 'diegopereira.ca']);
+_gaq.push(['_setAccount', '308093173']);
+_gaq.push(['_setDomainName', 'diegopereira.es.tl']);
 _gaq.push(['_trackPageview']); (function() {
 	var ga = document.createElement('script');
 	ga.type = 'text/javascript';
@@ -10,4 +21,5 @@ _gaq.push(['_trackPageview']); (function() {
 	var s = document.getElementsByTagName('script')[0];
 	s.parentNode.insertBefore(ga, s);
 })();
-*/
+
+// propiedades Analytics 360, a partir del 1 de octubre del 2023
