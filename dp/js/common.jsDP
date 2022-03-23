@@ -3,4 +3,24 @@ $(document).ready(function(){
 	$(document).bind("contextmenu",function(e){
 		return false;
 	});
+	var currentDate = new Date();
+	$("#year-current").html(currentDate.getFullYear());
+	$('meta[name="robots"]').attr("content", "index, follow");
+	var pageTitle = $(document).find("title");
+	switch (pageTitle.text()) {
+		case "diegopereira - hojadevida":
+			pageTitle.text("Diego Pereira Espinoza | Ingeniero de Software | Hoja de Vida");
+			break;
+		case "diegopereira - librodetrabajo":
+			pageTitle.text("Diego Pereira Espinoza | Ingeniero de Software | Libro de Trabajo");
+			break;
+		case "diegopereira - resume":
+			pageTitle.text("Diego Pereira Espinoza | Software Engineer | Resume");
+			break;
+		case "diegopereira - workbook":
+			pageTitle.text("Diego Pereira Espinoza | Software Engineer | Workbook");
+			break;
+		default: 
+			pageTitle.text("Diego Pereira Espinoza | Software Engineer | About");
+	}
 });

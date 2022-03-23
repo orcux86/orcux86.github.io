@@ -1,7 +1,3 @@
-/*
-Configurar una propiedad Google Analytics 4 junto con una propiedad Universal Analytics que ya exista
-https://support.google.com/analytics/answer/9744165?hl=es&utm_id=ad
-*/
 
 // propiedad Google Analytics 4, GA4
 window.dataLayer = window.dataLayer || [];
