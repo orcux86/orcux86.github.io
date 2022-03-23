@@ -332,7 +332,7 @@ p {
     position: absolute;
     width: 300px;
     left: 0;
-    bottom: 15px;
+    bottom: -1px;
     float: left;
 }
 .footer .logo {
