@@ -1,6 +1,6 @@
-$(document).ready(function(){
+$(document).ready(function() {
 	// Disabling Right Click over the web page
-	$(document).bind("contextmenu",function(e){
+	$(document).bind("contextmenu", function(e) {
 		return false;
 	});
 	var currentDate = new Date();
@@ -23,4 +23,16 @@ $(document).ready(function(){
 		default: 
 			pageTitle.text("Diego Pereira Espinoza | Software Engineer | About");
 	}
+	
+	// propiedad Google Analytics 4, GA4
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-FSP66079B6', { 'send_page_view': true });
+	// propiedad Universal Analytics, hasta el 1 de julio del 2023
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', '308093173', 'auto');
+	ga('send', 'pageview');
+	// propiedades Analytics 360, a partir del 1 de octubre del 2023
+	
 });
