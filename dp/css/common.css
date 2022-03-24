@@ -59,6 +59,7 @@ p {
     margin-left: auto;
     text-align: left;
     width: 960px;
+    height: 100%;
 }
 .header-wrap, .body-wrap, .footer-wrap {
     /*border: 1px solid #000;*/
@@ -66,6 +67,7 @@ p {
     width: 940px;
     top: 0px;
     left: 10px;
+    height: 100%;
 }
 .main {
     background: transparent url("images/body-bg-squares.png") repeat 0 0;
@@ -80,7 +82,8 @@ p {
 }
 /* CAN BE REMOVED */
 .header {
-    position: relative;
+    /*position: relative;*/
+    height: 50px;
 }
 .header a {
     color: #ffffff;
@@ -89,10 +92,9 @@ p {
     color: #666666;
 }
 .header, .header-main {
-    height: 50px;
 }
 .header-wrap {
-    height: 100%;
+    /*height: 100%;*/
     text-align: center;
 }
 .header a.top {
@@ -152,33 +154,33 @@ p {
 }
 /* CAN BE REMOVED */
 .body {
-    position: relative;
+    /*position: relative;*/
 }
-.about .body, .about .body-main {
+.about .body {
     height: 919px;
 }
-.resume .body, .resume .body-main {
+.resume .body {
     height: 1124px;
 }
-.es .resume .body, .es .resume .body-main {
+.es .resume .body {
     height: 1158px;
 }
-.workbook .body, .workbook .body-main {
+.workbook .body {
     height: 3905px;
 }
-.es .workbook .body, .es .workbook .body-main {
+.es .workbook .body {
     height: 3939px;
 }
 .body-main {
+    /*height: 100%;*/
 }
-.body-wrap {
-    top: 30px;
-	/*
+.body-wrap {/*
     padding-top: 30px;
     padding-right: 10px;
     padding-bottom: 0px;
-    padding-left: 10px;
-	*/
+    padding-left: 10px;*/
+    /*top: 30px;*/
+    /*height: 100%;*/
 }
 .body-title {
     color: #161616;
@@ -187,6 +189,7 @@ p {
     /*margin-bottom: 30px;*/
     height: 34px;
     height: 64px;
+    padding-top: 30px;
 }
 .section {
     margin-bottom: 44px;
@@ -320,11 +323,12 @@ p {
 }
 .footer {
     /*background: #343434 url("images/footer-bg-dots.png") repeat 0 0;*/
-    background-color: #343434;
+    /*background-color: #343434;*/
     color: #e9e9e9;
     font-size: 14px;
     position: relative;
     bottom: -90px;
+    height: 275px;
 }/*
 .about .footer {
     top: 919px;
@@ -347,16 +351,16 @@ p {
     top: 4079px;
 }*/
 .footer, .footer-main {
-    height: 275px;
+    /*height: 275px;*/
 }
 .footer-main {
     background-color: #00f;
 }
 .footer-wrap {
-    padding-top: 40px;
+    /*padding-top: 40px;*/
     /*margin-bottom: 40px;*/
     text-align: center;
-    height: 235px;
+    /*height: 235px;*/
 	background-color: #fedf7e;
 }
 .footer .logo-col {
@@ -366,7 +370,7 @@ p {
     left: 0;
     /*bottom: -1px;*/
     /*top: 27px;*/
-    bottom: 116px;
+    bottom: 130px;
     float: left;
 }
 .footer .logo {
@@ -381,10 +385,12 @@ p {
     margin-bottom: 14px;
 }
 .site-nav {
+    padding-top: 40px;
     margin-right: auto;
     margin-left: auto;
     text-align: left;
     width: 110px;
+    /*height: 235px;*/
 }
 .site-nav ul {
     margin-bottom: 18px;
