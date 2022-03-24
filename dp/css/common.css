@@ -319,7 +319,8 @@ p {
     padding-right: 18px;
 }
 .footer {
-    background: #343434 url("images/footer-bg-dots.png") repeat 0 0;
+    /*background: #343434 url("images/footer-bg-dots.png") repeat 0 0;*/
+    background-color: #343434;
     color: #e9e9e9;
     font-size: 14px;
     position: relative;
@@ -364,7 +365,8 @@ p {
     width: 300px;
     left: 0;
     /*bottom: -1px;*/
-    top: 27px;
+    /*top: 27px;*/
+    bottom: 116px;
     float: left;
 }
 .footer .logo {
@@ -405,7 +407,8 @@ p {
     width: 300px;
     right: 0;
     /*bottom: -63px;*/
-    top: 40px;
+    /*top: 40px;*/
+    bottom: 69px;
     float: right;
 }
 .contact-col ul {
