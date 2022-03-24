@@ -9,6 +9,9 @@
 #header_container, #nav_container, #title, #pre_content, #counter, #post_content, #below_content, #sidebar_container, #selfpromotionOverlay, #extraDiv1, #extraDiv2, #extraDiv3, #extraDiv4, #extraDiv5, #extraDiv6 {
     display: none;
 }
+#selfpromotionOverlay {
+    display: block;
+}
 
 body {
     color: #000000;
@@ -343,7 +346,7 @@ p {
     color: #e9e9e9;
     font-size: 14px;
     position: relative;
-    bottom: -90px;
+    bottom: -30px;
     /*height: 275px;
     height: 246px;*/
 }/*
