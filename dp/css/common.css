@@ -345,20 +345,26 @@ p {
     top: 3939px;
     top: 4079px;
 }*/
+.footer, .footer-main {
+    height: 275px;
+}
 .footer-main {
-    height: 235px;
+    background-color: #00f;
 }
 .footer-wrap {
     padding-top: 40px;
-    margin-bottom: 40px;
+    /*margin-bottom: 40px;*/
     text-align: center;
+    height: 235px;
+	background-color: #fedf7e;
 }
 .footer .logo-col {
     text-align: left;
     position: absolute;
     width: 300px;
     left: 0;
-    bottom: -1px;
+    /*bottom: -1px;*/
+    top: 27px;
     float: left;
 }
 .footer .logo {
@@ -398,7 +404,8 @@ p {
     text-align: right;
     width: 300px;
     right: 0;
-    bottom: -63px;
+    /*bottom: -63px;*/
+    top: 40px;
     float: right;
 }
 .contact-col ul {
