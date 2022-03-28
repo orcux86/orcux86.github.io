@@ -464,7 +464,7 @@ p {
     float: left;
 }
 
-.logo-msn, .logo-facebook, .logo-gmail, .logo-gplus, .logo-linkedin, .logo-twitter, .logo-skype {
+.logo-msn, .logo-facebook, .logo-gmail, .logo-gplus, .logo-youtube, .logo-linkedin, .logo-twitter, .logo-skype {
     margin-right: 8px;
     display: block;
     height: 32px;
@@ -483,6 +483,9 @@ p {
 }
 .logo-gplus {
     background: transparent url("images/logo-gplus.png") no-repeat 0 0;
+}
+.logo-youtube {
+    background: transparent url("images/logo-youtube-1.png") no-repeat 0 0;
 }
 
 .logo-linkedin {
