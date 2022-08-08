@@ -10,7 +10,7 @@
     display: none;
 }
 #selfpromotionOverlay {
-    display: block;
+    display: none;
 }
 
 body {
