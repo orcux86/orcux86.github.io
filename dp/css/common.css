@@ -10,7 +10,13 @@
     display: none;
 }
 #selfpromotionOverlay {
-    display: none;
+    display: block;
+}
+#selfpromotionOverlay .btn {
+    width: 908px;
+}
+#hpb_cssonly {
+    padding-top: 84px;
 }
 
 body {
