@@ -16,7 +16,27 @@
     /*width: 908px;*/
 }
 #hpb_cssonly {
+    padding-top: 230px;
+}
+@media (min-width: 184px) {
+#hpb_cssonly {
+    padding-top: 209px;
+}
+}
+@media (min-width: 222px) {
+#hpb_cssonly {
+    padding-top: 188px;
+}
+}
+@media (min-width: 270px) {
+#hpb_cssonly {
+    padding-top: 167px;
+}
+}
+@media (min-width: 275px) {
+#hpb_cssonly {
     padding-top: 146px;
+}
 }
 @media (min-width: 312px) {
 #hpb_cssonly {
