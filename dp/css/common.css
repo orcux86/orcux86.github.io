@@ -16,7 +16,17 @@
     /*width: 908px;*/
 }
 #hpb_cssonly {
+    padding-top: 272px;
+}
+@media (min-width: 156px) {
+#hpb_cssonly {
+    padding-top: 251px;
+}
+}
+@media (min-width: 170px) {
+#hpb_cssonly {
     padding-top: 230px;
+}
 }
 @media (min-width: 184px) {
 #hpb_cssonly {
