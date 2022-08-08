@@ -13,10 +13,30 @@
     display: block;
 }
 #selfpromotionOverlay .btn {
-    width: 908px;
+    /*width: 908px;*/
 }
 #hpb_cssonly {
-    padding-top: 84px;
+    padding-top: 144px;
+}
+@media (min-width: 365px) {
+#hpb_cssonly {
+    padding-top: 123px;
+}
+}
+@media (min-width: 513px) {
+#hpb_cssonly {
+padding-top: 102px;
+}
+}
+@media (min-width: 936px) {
+#hpb_cssonly {
+padding-top: 82px;
+}
+}
+@media (min-width: 1038px) {
+#hpb_cssonly {
+padding-top: 62px;
+}
 }
 
 body {
