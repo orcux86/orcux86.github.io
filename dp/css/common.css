@@ -16,24 +16,24 @@
     /*width: 908px;*/
 }
 #hpb_cssonly {
-    padding-top: 144px;
+    padding-top: 146px;
 }
-@media (min-width: 365px) {
+@media (min-width: 312px) {
 #hpb_cssonly {
-    padding-top: 123px;
+    padding-top: 125px;
 }
 }
-@media (min-width: 513px) {
+@media (min-width: 390px) {
 #hpb_cssonly {
-padding-top: 102px;
+padding-top: 104px;
 }
 }
-@media (min-width: 936px) {
+@media (min-width: 548px) {
 #hpb_cssonly {
-padding-top: 82px;
+padding-top: 83px;
 }
 }
-@media (min-width: 1038px) {
+@media (min-width: 1049px) {
 #hpb_cssonly {
 padding-top: 62px;
 }
