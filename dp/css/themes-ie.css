@@ -6,42 +6,237 @@
  */
 /* CSS Document */
 
-.green .bgcolor {
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#72cb47', endColorstr='#ffffff');
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#72cb47', endColorstr='#ffffff')";
+/************************* blue *************************/
+
+.blue01 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#007382', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#007382', endColorstr='#ffffff')";
 }
-.pink .bgcolor {
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff7ead', endColorstr='#ffffff');
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff7ead', endColorstr='#ffffff')";
+/*-----------------------*/
+.blue02 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0085a9', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#0085a9', endColorstr='#ffffff')";
 }
+/*-----------------------*/
+.blue03 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00b0f0', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#00b0f0', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.blue04 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#015698', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#015698', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.blue05 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#085d9f', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#085d9f', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.blue06 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#095998', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#095998', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.blue07 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2d609e', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#2d609e', endColorstr='#ffffff')";
+}
+/*-----------------------*/
 .blue .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3a9bee', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#3a9bee', endColorstr='#ffffff')";
 }
+
+/************************ green *************************/
+
+.green01 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#27ad60', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#27ad60', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.green02 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#70ad47', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#70ad47', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.green .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#72cb47', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#72cb47', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.green04 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#92d050', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#92d050', endColorstr='#ffffff')";
+}
+
+/************************ orange ************************/
+
+.orange01 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ed7d31', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ed7d31', endColorstr='#ffffff')";
+}
+/*-----------------------*/
 .orange .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f48e33', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#f48e33', endColorstr='#ffffff')";
 }
+/*-----------------------*/
+.orange03 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#643100', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#643100', endColorstr='#ffffff')";
+}
+
+/************************* pink *************************/
+
+.pink01 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a03c55', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#a03c55', endColorstr='#ffffff')";
+}
+.pink02 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5b76', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5b76', endColorstr='#ffffff')";
+}
+.pink03 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff604c', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff604c', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.pink .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff7ead', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff7ead', endColorstr='#ffffff')";
+}
+
+/************************ purple ************************/
+
+.purple01 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7030a0', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#7030a0', endColorstr='#ffffff')";
+}
+/*-----------------------*/
 .purple .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c387e9', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#c387e9', endColorstr='#ffffff')";
 }
 
+/************************* red **************************/
+
+.red01 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e84d42', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#e84d42', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.red .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0000', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0000', endColorstr='#ffffff')";
+}
+
+/************************ yellow ************************/
+
+.yellow01 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d49a00', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#d49a00', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.yellow02 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fd991b', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#fd991b', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.yellow .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc000', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc000', endColorstr='#ffffff')";
+}
+
+/************************ ****** ************************/
+/************************ header ************************/
+/************************ ****** ************************/
+
 .green .header, .pink .header, .blue .header, .orange .header, .purple .header {
 	filter: alpha(opacity=100);
 }
-.green .header {
-	background-color: #72cb47;
+/*-----------------------*/
+.blue01 .header {
+	background-color: #007382;
 }
-.pink .header {
-	background-color: #ff7ead;
+.blue02 .header {
+	background-color: #0085a9;
+}
+.blue03 .header {
+	background-color: #00b0f0;
+}
+.blue04 .header {
+	background-color: #015698;
+}
+.blue05 .header {
+	background-color: #085d9f;
+}
+.blue06 .header {
+	background-color: #095998;
+}
+.blue07 .header {
+	background-color: #2d609e;
 }
 .blue .header {
 	background-color: #3a9bee;
 }
+/*-----------------------*/
+.green01 .header {
+	background-color: #27ad60;
+}
+.green02 .header {
+	background-color: #70ad47;
+}
+.green .header {
+	background-color: #72cb47;
+}
+.green04 .header {
+	background-color: #92d050;
+}
+/*-----------------------*/
+.orange01 .header {
+	background-color: #ed7d31;
+}
 .orange .header {
 	background-color: #f48e33;
 }
+.orange03 .header {
+	background-color: #643100;
+}
+/*-----------------------*/
+.pink01 .header {
+	background-color: #a03c55;
+}
+.pink02 .header {
+	background-color: #ff5b76;
+}
+.pink03 .header {
+	background-color: #ff604c;
+}
+.pink .header {
+	background-color: #ff7ead;
+}
+/*-----------------------*/
+.purple01 .header {
+	background-color: #7030a0;
+}
 .purple .header {
 	background-color: #c387e9;
+}
+/*-----------------------*/
+.red01 .header {
+	background-color: #e84d42;
+}
+.red .header {
+	background-color: #ff0000;
+}
+/*-----------------------*/
+.yellow01 .header {
+	background-color: #d49a00;
+}
+.yellow02 .header {
+	background-color: #fd991b;
+}
+.yellow .header {
+	background-color: #ffc000;
 }

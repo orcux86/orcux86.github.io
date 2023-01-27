@@ -6,32 +6,80 @@
  */
 /* CSS Document */
 
-.green .bgcolor {
-	background-color: #72cb47;
+/************************* blue *************************/
+
+.blue01 .bgcolor {
+	background-color: #007382;
 }
-.pink .bgcolor {
-	background-color: #ff7ead;
+.blue01 a {
+	color: #00667f;
 }
+.blue01 a:hover {
+	color: #00424f;
+}
+/*-----------------------*/
+.blue02 .bgcolor {
+	background-color: #0085a9;
+}
+.blue02 a {
+	color: #0078a6;
+}
+.blue02 a:hover {
+	color: #005476;
+}
+/*-----------------------*/
+.blue03 .bgcolor {
+	background-color: #00b0f0;
+}
+.blue03 a {
+	color: #00a3ed;
+}
+.blue03 a:hover {
+	color: #007fbd;
+}
+/*-----------------------*/
+.blue04 .bgcolor {
+	background-color: #015698;
+}
+.blue04 a {
+	color: #005395;
+}
+.blue04 a:hover {
+	color: #002565;
+}
+/*-----------------------*/
+.blue05 .bgcolor {
+	background-color: #085d9f;
+}
+.blue05 a {
+	color: #03509c;
+}
+.blue05 a:hover {
+	color: #002c6c;
+}
+/*-----------------------*/
+.blue06 .bgcolor {
+	background-color: #095998;
+}
+.blue06 a {
+	color: #044c95;
+}
+.blue06 a:hover {
+	color: #002865;
+}
+/*-----------------------*/
+.blue07 .bgcolor {
+	background-color: #2d609e;
+}
+.blue07 a {
+	color: #28539b;
+}
+.blue07 a:hover {
+	color: #002f6b;
+}
+/*-----------------------*/
 .blue .bgcolor {
 	background-color: #3a9bee;
-}
-.orange .bgcolor {
-	background-color: #f48e33;
-}
-.purple .bgcolor {
-	background-color: #c387e9;
-}
-.green a {
-	color: #73c44b;
-}
-.green a:hover {
-	color: #559137;
-}
-.pink a {
-	color: #f26098;
-}
-.pink a:hover {
-	color: #b34572;
 }
 .blue a {
 	color: #4098e1;
@@ -39,11 +87,137 @@
 .blue a:hover {
 	color: #3972a0;
 }
+
+/************************ green *************************/
+
+.green01 .bgcolor {
+	background-color: #27ad60;
+}
+.green01 a {
+	color: #22a05d;
+}
+.green01 a:hover {
+	color: #007c2d;
+}
+/*-----------------------*/
+.green02 .bgcolor {
+	background-color: #70ad47;
+}
+.green02 a {
+	color: #6ba044;
+}
+.green02 a:hover {
+	color: #3e7c14;
+}
+/*-----------------------*/
+.green .bgcolor {
+	background-color: #72cb47;
+}
+.green a {
+	color: #73c44b;
+}
+.green a:hover {
+	color: #559137;
+}
+/*-----------------------*/
+.green04 .bgcolor {
+	background-color: #92d050;
+}
+.green04 a {
+	color: #8dbe4d;
+}
+.green04 a:hover {
+	color: #609f1d;
+}
+
+/************************ orange ************************/
+
+.orange01 .bgcolor {
+	background-color: #ed7d31;
+}
+.orange01 a {
+	color: #e8702e;
+}
+.orange01 a:hover {
+	color: #bb4c00;
+}
+/*-----------------------*/
+.orange .bgcolor {
+	background-color: #f48e33;
+}
 .orange a {
 	color: #f38f42;
 }
 .orange a:hover {
 	color: #b46a30;
+}
+/*-----------------------*/
+.orange03 .bgcolor {
+	background-color: #643100;
+}
+.orange03 a {
+	color: #5f2400;
+}
+.orange03 a:hover {
+	color: #320000;
+}
+
+/************************* pink *************************/
+
+.pink01 .bgcolor {
+	background-color: #a03c55;
+}
+.pink01 a {
+	color: #9b2f52;
+}
+.pink01 a:hover {
+	color: #6e0b22;
+}
+/*-----------------------*/
+.pink02 .bgcolor {
+	background-color: #ff5b76;
+}
+.pink02 a {
+	color: #fa4e73;
+}
+.pink02 a:hover {
+	color: #cd2a43;
+}
+/*-----------------------*/
+.pink03 .bgcolor {
+	background-color: #ff604c;
+}
+.pink03 a {
+	color: #fa5349;
+}
+.pink03 a:hover {
+	color: #cd2f19;
+}
+/*-----------------------*/
+.pink .bgcolor {
+	background-color: #ff7ead;
+}
+.pink a {
+	color: #f26098;
+}
+.pink a:hover {
+	color: #b34572;
+}
+
+/************************ purple ************************/
+
+.purple01 .bgcolor {
+	background-color: #7030a0;
+}
+.purple01 a {
+	color: #6b239d;
+}
+.purple01 a:hover {
+	color: #3e006d;
+}
+/*-----------------------*/
+.purple .bgcolor {
+	background-color: #c387e9;
 }
 .purple a {
 	color: #b36cea;
@@ -51,21 +225,150 @@
 .purple a:hover {
 	color: #745487;
 }
+
+/************************* red **************************/
+
+.red01 .bgcolor {
+	background-color: #e84d42;
+}
+.red01 a {
+	color: #e3403f;
+}
+.red01 a:hover {
+	color: #b61c0f;
+}
+/*-----------------------*/
+.red .bgcolor {
+	background-color: #ff0000;
+}
+.red a {
+	color: #fa0000;
+}
+.red a:hover {
+	color: #cd0000;
+}
+
+/************************ yellow ************************/
+
+.yellow01 .bgcolor {
+	background-color: #d49a00;
+}
+.yellow01 a {
+	color: #cf8d00;
+}
+.yellow01 a:hover {
+	color: #a26900;
+}
+/*-----------------------*/
+.yellow02 .bgcolor {
+	background-color: #fd991b;
+}
+.yellow02 a {
+	color: #f88c18;
+}
+.yellow02 a:hover {
+	color: #cd6800;
+}
+/*-----------------------*/
+.yellow .bgcolor {
+	background-color: #ffc000;
+}
+.yellow a {
+	color: #fab300;
+}
+.yellow a:hover {
+	color: #cd8f00;
+}
+
+/************************ ****** ************************/
+/************************ header ************************/
+/************************ ****** ************************/
+
 .header a {
 	color: #ffffff;
 }
-.green .header a:hover, .green .header a.active {
-	color: #beff9d;
+/*-----------------------*/
+.blue01 .header a:hover, .blue01 .header a.active {
+	color: #31b5be;
 }
-.pink .header a:hover, .pink .header a.active {
-	color: #ffc2da;
+.blue02 .header a:hover, .blue02 .header a.active {
+	color: #31c7e5;
+}
+.blue03 .header a:hover, .blue03 .header a.active {
+	color: #31f2ff;
+}
+.blue04 .header a:hover, .blue04 .header a.active {
+	color: #3298d4;
+}
+.blue05 .header a:hover, .blue05 .header a.active {
+	color: #399fdb;
+}
+.blue06 .header a:hover, .blue06 .header a.active {
+	color: #3a9bd4;
+}
+.blue07 .header a:hover, .blue07 .header a.active {
+	color: #5ea2da;
 }
 .blue .header a:hover, .blue .header a.active {
 	color: #bae0ff;
 }
+/*-----------------------*/
+.green01 .header a:hover, .green01 .header a.active {
+	color: #58ef9c;
+}
+.green02 .header a:hover, .green02 .header a.active {
+	color: #a1ef83;
+}
+.green .header a:hover, .green .header a.active {
+	color: #beff9d;
+}
+.green04 .header a:hover, .green04 .header a.active {
+	color: #c3ff8c;
+}
+/*-----------------------*/
+.orange01 .header a:hover, .orange01 .header a.active {
+	color: #ffbf6d;
+}
 .orange .header a:hover, .orange .header a.active {
 	color: #ffd8b4;
 }
+.orange03 .header a:hover, .orange03 .header a.active {
+	color: #95733c;
+}
+/*-----------------------*/
+.pink01 .header a:hover, .pink01 .header a.active {
+	color: #d17e91;
+}
+.pink02 .header a:hover, .pink02 .header a.active {
+	color: #ff9db2;
+}
+.pink03 .header a:hover, .pink03 .header a.active {
+	color: #ffa288;
+}
+.pink .header a:hover, .pink .header a.active {
+	color: #ffc2da;
+}
+/*-----------------------*/
+.purple01 .header a:hover, .purple01 .header a.active {
+	color: #a172dc;
+}
 .purple .header a:hover, .purple .header a.active {
 	color: #ebcaff;
+}
+/*-----------------------*/
+.red01 .header a:hover, .red01 .header a.active {
+	color: #ff8f7e;
+}
+.red .header a:hover, .red .header a.active {
+	color: #ff423c;
+}
+/*-----------------------*/
+.yellow01 .header a:hover, .yellow01 .header a.active {
+	color: #ffdc3c;
+}
+.yellow02 .header a:hover, .yellow02 .header a.active {
+	color: #ffdb57;
+}
+.yellow .header a:hover, .yellow .header a.active {
+	color: #ffff3c;
 }
