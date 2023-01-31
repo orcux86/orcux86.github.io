@@ -9,36 +9,41 @@
 /************************* blue *************************/
 
 .blue01 .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#006876', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#006876', endColorstr='#ffffff')";
+}
+/*-----------------------*/
+.blue02 .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#007382', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#007382', endColorstr='#ffffff')";
 }
 /*-----------------------*/
-.blue02 .bgcolor {
+.blue03 .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0085a9', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#0085a9', endColorstr='#ffffff')";
 }
 /*-----------------------*/
-.blue03 .bgcolor {
+.blue04 .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00b0f0', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#00b0f0', endColorstr='#ffffff')";
 }
 /*-----------------------*/
-.blue04 .bgcolor {
+.blue05 .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#015698', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#015698', endColorstr='#ffffff')";
 }
 /*-----------------------*/
-.blue05 .bgcolor {
+.blue06 .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#085d9f', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#085d9f', endColorstr='#ffffff')";
 }
 /*-----------------------*/
-.blue06 .bgcolor {
+.blue07 .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#095998', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#095998', endColorstr='#ffffff')";
 }
 /*-----------------------*/
-.blue07 .bgcolor {
+.blue08 .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2d609e', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#2d609e', endColorstr='#ffffff')";
 }
@@ -46,6 +51,13 @@
 .blue .bgcolor {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3a9bee', endColorstr='#ffffff');
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#3a9bee', endColorstr='#ffffff')";
+}
+
+/************************* gray *************************/
+
+.gray .bgcolor {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#787e82', endColorstr='#ffffff');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#787e82', endColorstr='#ffffff')";
 }
 
 /************************ green *************************/
