@@ -318,6 +318,18 @@ p {
     top: 15px;
     left: 13px;
 }
+.innovation .thumb .img {
+    background-image: url("images/workbook/thumbs/Innovation.png");
+}
+.sinpetp .thumb .img {
+    background-image: url("images/workbook/thumbs/SinpeTP.png");
+}
+.essaytic .thumb .img {
+    background-image: url("images/workbook/thumbs/EssayTIC.png");
+}
+.essaycrm .thumb .img {
+    background-image: url("images/workbook/thumbs/EssayCRM.png");
+}
 .zealcare .thumb .img {
     background-image: url("images/workbook/thumbs/ZealCare.png");
 }
