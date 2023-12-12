@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="FamiliaEN16",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="ChurchofUgandaFamilyTelevision.ug" tvg-logo="https://pbs.twimg.com/profile_images/1455134164353757187/RYfGkxkO_400x400.jpg" group-title="FamiliaEN16;ReligionEN121",COU FamiliaEN16 Television (720p)
+https://media.streambrothers.com:19360/8028/8028.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="FamiliaEN16",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="FamiliaEN16",FilmRise FamiliaEN16 (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://i.imgur.com/1dgCvNE.png" group-title="FamiliaEN16",ION Plus
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="FamiliaEN16",My FamiliaEN16 Channel (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFamily.us" tvg-logo="https://i.imgur.com/JZwXvUR.png" group-title="FamiliaEN16",Pluto TV FamiliaEN16 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PositivTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="FamiliaEN16",Positiv (720p)
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="FamiliaEN16;PeliculaEN93",Rakuten FamiliaEN16 UK (720p)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="FamiliaEN16;PeliculaEN93",Rakuten TV Perhe
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealFamilies.us" tvg-logo="https://i.imgur.com/uoWrh7e.png" group-title="FamiliaEN16",Real Families (1080p)
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealFamilies.au" tvg-logo="https://i.imgur.com/fV9UC2U.png" group-title="FamiliaEN16",Real Families (Australia) (720p)
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-logo="https://i.imgur.com/uTNmSWE.png" group-title="CulturaEN22;FamiliaEN16",Superscreen TV (412p)
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="FamiliaEN16",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="FamiliaEN16",The Pet Collective
+https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="FamiliaEN16",TVS FamiliaEN16 Channel (360p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8

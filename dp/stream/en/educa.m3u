@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KETSDT1.us" tvg-logo="https://i.imgur.com/dNBZLtD.png" group-title="EducaEN56",Arkansas PBS [Geo-blocked]
+https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+#EXTINF:-1 tvg-id="CVCEducation.us" tvg-logo="https://i.imgur.com/tUgEAUJ.png" group-title="EducaEN56",Bolton Community Voice Channel (CVC) EducaEN56 (Bolton CT) (480p)
+https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVNowYouKnow.us" tvg-logo="https://i.imgur.com/78K3L8J.png" group-title="EducaEN56",Bumblebee TV Now You Know
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+#EXTINF:-1 tvg-id="BUTV10.us" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="EducaEN56",BUTV10 (Boston University) (1080p) [Not 24/7]
+http://butv10-livestream.bu.edu/live/live.m3u8
+#EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png" group-title="EducaEN56",Cloudflare TV (720p)
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="CCPSEducationChannel.us" tvg-logo="https://i.imgur.com/62S7dI8.png" group-title="EducaEN56",Collier County Public Schools CCPS EducaEN56 Channel (Naples FL) (480p)
+https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="EducaEN56",CreaTV Classrooms Channel 28 (San Jose CA) (720p)
+https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
+#EXTINF:-1 tvg-id="DKN.us" tvg-logo="https://i.imgur.com/DIau0GB.png" group-title="EducaEN56",DC.gov DKN (Washington DC) (1080p)
+https://video.oct.dc.gov/out/u/DKN.m3u8
+#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="EducaEN56;MontañaEN29;RelaxEN16",earthTV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="EducaEN56",EBS E (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="EducaEN56",EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="EducaEN56" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",English Class (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-1 tvg-id="FairTVEducationChannel.us" tvg-logo="https://i.imgur.com/kpgu1F1.png" group-title="EducaEN56",Fairfield FairTV EducaEN56 Channel (Fairfield CT) (1080p)
+https://streams.helnix.com/autoHLS/900735315c2bc38b/900735315c2bc38b.m3u8
+#EXTINF:-1 tvg-id="CMAC2.us" tvg-logo="https://i.imgur.com/O0sYOED.png" group-title="EducaEN56",Fresno CMAC 2 EducaEN56 Channel (720p)
+https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
+#EXTINF:-1 tvg-id="HKTV.us" tvg-logo="https://i.imgur.com/AYzdlMz.png" group-title="EducaEN56",Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]
+https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="KBEV.us" tvg-logo="https://i.imgur.com/YFVrphZ.png" group-title="EducaEN56",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-logo="https://i.imgur.com/VfofmZZ.png" group-title="EducaEN56;NiñosEN68",Knowledge (720p) [Geo-blocked]
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-id="KTOODT3.us" tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="EducaEN56",KTOO 360TV 3 (FNX)
+https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
+#EXTINF:-1 tvg-id="LNKTVEducation.us" tvg-logo="https://i.imgur.com/1snCTXp.png" group-title="EducaEN56",LNKTV EducaEN56 (1080p)
+http://80tv.lincoln.ne.gov/live/live.m3u8
+#EXTINF:-1 tvg-id="LongmontPublicMediaChannel14.us" tvg-logo="https://i.imgur.com/WaUOTEy.png" group-title="EducaEN56",Longmont Public Media Channel (Channel 14) (Longmont CO) (720p)
+https://ch8reflector.longmontpublicmedia.org/hls/14/ch14.m3u8
+#EXTINF:-1 tvg-id="LA36.us" tvg-logo="https://i.imgur.com/JxTzUEq.png" group-title="EducaEN56",Los Angeles Local Television Channel 36 (1080p)
+https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="MSTV.us" tvg-logo="https://i.imgur.com/x0lJqSp.png" group-title="EducaEN56",Manatee Schools Television MSTV (Manatee County FL) (1080p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/3659c04b92f04b808b0bc36d1d23aeb7/index.m3u8
+#EXTINF:-1 tvg-id="MarinTVEducationalChannel.us" tvg-logo="https://i.imgur.com/HsBBu8g.png" group-title="EducaEN56",Marin TV Educational Channel (San Rafael CA) (1080p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6930291b02344cc88fec20504849dafd/playlist.m3u8
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="CulturaEN22;EducaEN56",MCN6 Arts Channel (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="EducaEN56",Midpen Media Center Youth EducaEN56 and DeporteEN86 Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-logo="https://i.imgur.com/qo5sk1g.png" group-title="EducaEN56",Mobile County Public Schools TV Network (MCPSS)
+https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NapaValleyChannel27.us" tvg-logo="https://i.imgur.com/6GtlOSi.png" group-title="EducaEN56",Napa Valley TV EducaEN56 Access Channel 27 (480p)
+https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="EducaEN56",NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="EducaEN56",NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NashuaETV.us" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="EducaEN56",Nashua ETV Channel 22 Nashua NH
+https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="EducaEN56;NiñosEN68",NCM Educational & NiñosEN68 Channel
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
+#EXTINF:-1 tvg-id="KOCTChannel19.us" tvg-logo="https://i.imgur.com/6C71KwP.png" group-title="EducaEN56",Oceanside Community Television (KOCT) EducaEN56 and Government Channel 19 (720p)
+https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8
+#EXTINF:-1 tvg-id="VisionTV.us" tvg-logo="https://i.imgur.com/XnxPIqn.png" group-title="EducaEN56",Orange County Vision TV (Orange County FL) (720p)
+https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ParyawaranTV.np" tvg-logo="https://i.imgur.com/H10qamt.png" group-title="EducaEN56;MontañaEN29",Paryawaran TV (1080p)
+https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WPPTDT1.us" tvg-logo="https://i.imgur.com/4Ea7peX.png" group-title="EducaEN56",PBS 39 Extra Philadelphia (480p)
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KHETDT1.us" tvg-logo="https://i.imgur.com/O5uOeQh.png" group-title="EducaEN56",PBS Honolulu HI (KHET) (1080p) [Not 24/7]
+https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
+#EXTINF:-1 tvg-id="WKMJDT1.us" tvg-logo="https://i.imgur.com/U9HFzJk.png" group-title="EducaEN56",PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="EducaEN56;NiñosEN68",PBS NiñosEN68 Alaska (1080p)
+https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="EducaEN56;NiñosEN68",PBS NiñosEN68 Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="EducaEN56;NiñosEN68",PBS NiñosEN68 Hawaii (1080p)
+https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="EducaEN56;NiñosEN68",PBS NiñosEN68 Mountain (1080p)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="EducaEN56;NiñosEN68",PBS NiñosEN68 Pacific (1080p)
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+#EXTINF:-1 tvg-id="KUONDT1.us" tvg-logo="https://i.imgur.com/sfwIILW.png" group-title="EducaEN56",PBS Lincoln NE (KUON) (1080p) [Geo-blocked]
+https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
+#EXTINF:-1 tvg-id="PBSEast.us" tvg-logo="https://i.imgur.com/vQ7F7zg.png" group-title="EducaEN56",PBS National East (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="PBSWest.us" tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png" group-title="EducaEN56",PBS National West (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:-1 tvg-id="WFSUDT1.us" tvg-logo="https://i.ibb.co/2KqyGjL/PBS-logo.png" group-title="EducaEN56",PBS Tallahassee (720p)
+https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PSDTV.us" tvg-logo="https://i.imgur.com/djT0Q8q.png" group-title="EducaEN56",Poudre School District TV (PSD TV) (Fort Collins CO) (720p)
+https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="RedApple21.us" tvg-logo="https://i.imgur.com/ICcQUCH.png" group-title="EducaEN56",Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-id="COETVChannel19.us" tvg-logo="https://i.imgur.com/8K1ww0r.png" group-title="EducaEN56",San Luis Obispo County Office of EducaEN56 COE-TV Channel 19 (1080p)
+https://vod.slocoe.org/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-logo="https://i.imgur.com/4Autljp.png" group-title="EducaEN56",Santa Maria Community Television EducaEN56 Channel (720p)
+https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamc/manifest.m3u8
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://i.imgur.com/jAAPgpV.png" group-title="CulturaEN22;EducaEN56",The Indonesia Channel (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1 tvg-id="TheSoutheasternChannel.us" tvg-logo="https://i.imgur.com/E5dmC1U.png" group-title="EducaEN56",The Southeastern Channel (540p)
+http://147.174.13.196/live/live.m3u8
+#EXTINF:-1 tvg-id="TUTV.us" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="EducaEN56",TUTV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="UCTV.us" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="EducaEN56",UCTV University of California (720p) [Not 24/7]
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VyasChannel.in" tvg-logo="https://i.ibb.co/WVyjqrX/in-vyas-channel-5512.jpg" group-title="EducaEN56",Vyas NIC (480p)
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
+#EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="EducaEN56",WPS TV (360p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8

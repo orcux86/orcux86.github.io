@@ -1,0 +1,328 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="NoticiaEN163",2GB Sydney (1080p)
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 tvg-id="6PR.au" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="NoticiaEN163",6PR Perth (1080p)
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 tvg-id="ANews.tr" tvg-logo="https://i.imgur.com/6tWCzTp.png" group-title="NoticiaEN163",A NoticiaEN163 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
+#EXTINF:-1 tvg-id="KOATDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="NoticiaEN163",ABC 7 Albuquerque NM (KOAT) (720p)
+https://lnc-koat.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://imgur.com/nKAUCLF.jpg" group-title="NoticiaEN163",ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="WMTWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="NoticiaEN163",ABC 8 Portland ME (WMTW) (720p)
+https://lnc-wmtw.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="KMBCDT1.us" tvg-logo="https://i.imgur.com/DCBHkiP.jpg" group-title="NoticiaEN163",ABC 9 Kansas City MO (KMBC-TV) (720p)
+https://lnc-kmbc.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="WAPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="NoticiaEN163",ABC 16 Jackson MS (WAPT) (720p)
+https://lnc-wapt.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="WJCLDT1.us" tvg-logo="https://i.imgur.com/Q4B9h5L.png" group-title="NoticiaEN163",ABC 22 Savannah GA (WJCL) (720p)
+https://lnc-wjcl.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="KXXVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 25 NoticiaEN163 Central Texas (KXXV-DT1)
+https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+#EXTINF:-1 tvg-id="WPBFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="NoticiaEN163",ABC 25 West Palm Beach FL (WPBF) (720p)
+https://lnc-wpbf.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="KHBSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="NoticiaEN163",ABC 40/29 Fort Smith AR (KHBS) (720p)
+https://lnc-khbs.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="NoticiaEN163",ABC NoticiaEN163 (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive2.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 2 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive3.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 3 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive4.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 4 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive5.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 5 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive6.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 6 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive7.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 7 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive8.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive9.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 9 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive10.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="NoticiaEN163",ABC NoticiaEN163 Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" group-title="NoticiaEN163",ABP NoticiaEN163 (720p)
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-id="ADHTV.au" tvg-logo="https://i.ibb.co/zmccMZG/Channels4-profile.jpg" group-title="NoticiaEN163",ADH TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
+#EXTINF:-1 tvg-id="AfghanistanInternational.uk" tvg-logo="https://i.imgur.com/r8MmFRX.png" group-title="NoticiaEN163",Afghanistan International (720p)
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="NoticiaEN163",Africanews
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="NoticiaEN163",Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AmericasVoice.us" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="NoticiaEN163",America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="GeneralEN5;NoticiaEN163",Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="NoticiaEN163",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AriseNews.uk" tvg-logo="https://i.imgur.com/B5IXKIb.png" group-title="NoticiaEN163",Arise NoticiaEN163 (576p)
+https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
+#EXTINF:-1 tvg-id="ATN.ng" tvg-logo="https://i.ibb.co/9nHgK9t/logo-light.jpg" group-title="NoticiaEN163",ATN (480p)
+https://tv.ifastekpanel.com:3013/live/atntvlive.m3u8
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NoticiaEN163",BBC NoticiaEN163 [Geo-blocked]
+https://sc2022.stream-link.org/tv2306.php?id=e02
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="NoticiaEN163",BBC NoticiaEN163 HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NoticiaEN163" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",BBC World NoticiaEN163 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="BBCNewsSouthAsia.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="NoticiaEN163",BBC World NoticiaEN163 South Asia
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="BEKNews.us" tvg-logo="https://i.imgur.com/m80uxdz.png" group-title="NoticiaEN163",BEK TV NoticiaEN163 (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="NoticiaEN163",Black NoticiaEN163 Channel (1080p)
+https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="BXInform.us" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="GeneralEN5;NoticiaEN163",BX Inform (1080p)
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="NoticiaEN163",CBC NoticiaEN163 (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KCCIDT1.us" tvg-logo="https://i.imgur.com/6xjshQj.png" group-title="NoticiaEN163",CBS 8 Des Moines IA (KCCI) (720p)
+https://lnc-kcci.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="WLKYDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="NoticiaEN163",CBS 32 Louisville KY (WLKY) (720p)
+https://lnc-wlky.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="NoticiaEN163",CBS NoticiaEN163 Baltimore (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="NoticiaEN163",CBS NoticiaEN163 Chicago (720p)
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-title="NoticiaEN163",CBS NoticiaEN163 Colorado (720p)
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDFW.us" tvg-logo="https://i.imgur.com/PWXK33U.png" group-title="NoticiaEN163",CBS NoticiaEN163 Dallas Ft Worth (720p)
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="NoticiaEN163",CBS NoticiaEN163 Detroit (720p)
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="NoticiaEN163",CBS NoticiaEN163 Los Angeles (720p)
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="NoticiaEN163",CBS NoticiaEN163 Miami (720p)
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="NoticiaEN163",CBS NoticiaEN163 National (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="NoticiaEN163",CBS NoticiaEN163 New York (720p)
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="NoticiaEN163",CBS NoticiaEN163 Pittsburgh (720p)
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="NoticiaEN163",CBS NoticiaEN163 Sacramento (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="NoticiaEN163",CGTN (576p)
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="NoticiaEN163",Cheddar NoticiaEN163 (1080p)
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="NoticiaEN163",CNA [Geo-blocked]
+https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="NoticiaEN163",CNA NoticiaEN163 [Geo-blocked]
+https://sc2022.stream-link.org/tv2306.php?id=e06
+#EXTINF:-1 tvg-id="CNCWorldEnglish.cn" tvg-logo="https://i.imgur.com/WCQAfK4.png" group-title="NoticiaEN163",CNC中文 (720p) [Not 24/7]
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="NoticiaEN163",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-logo="https://i.imgur.com/WrmeIco.png" group-title="NoticiaEN163",CNN NoticiaEN163 18 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8
+#EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://i.imgur.com/PNymaxE.png" group-title="NoticiaEN163",CNN Philippines (720p)
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="NoticiaEN163",CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-logo="https://i.imgur.com/pRscvrp.png" group-title="NoticiaEN163",CTV (720p)
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="NoticiaEN163",Dunya NoticiaEN163 (UK Feed) (720p) [Not 24/7]
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NoticiaEN163",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qr0w2eZ.jpg" group-title="NoticiaEN163",DZRH NoticiaEN163 TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="NoticiaEN163",Euronews
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EyeAfricaTV.gm" tvg-logo="https://i.imgur.com/mNn8MID.png" group-title="NoticiaEN163",Eye Africa TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCLYggzo8r31yYj3mjZDrSrA.m3u8
+#EXTINF:-1 tvg-id="WJBKDT1.us" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="NoticiaEN163",FOX 2 Detroit MI (WJBK) (720p)
+https://lnc-wjbk.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KMSPDT1.us" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="NoticiaEN163",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
+https://lnc-kmsp.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="KRIVDT1.us" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="NoticiaEN163",FOX 26 Houston TX (KRIV) (720p)
+https://lnc-kriv.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="WAGADT1.us" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="NoticiaEN163",FOX Atlanta-GA (WAGA-DT1) (720p)
+https://trn10.tulix.tv/WAGA-FOX/index.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="NoticiaEN163",Fox Live [Geo-blocked]
+https://sc2022.stream-link.org/tv2306.php?id=e09
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="NoticiaEN163",Fox NoticiaEN163 Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="NoticiaEN163",France 24 English [Geo-blocked]
+https://sc2022.stream-link.org/tv2306.php?id=e10
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="NoticiaEN163",GB NoticiaEN163
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="NoticiaEN163",Global NoticiaEN163 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-logo="https://i.imgur.com/ZrvoGqS.png" group-title="NoticiaEN163",GoodNews TV (720p)
+https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="NoticiaEN163",HLN (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="HollyWire.us" tvg-logo="https://i.imgur.com/oVNjFoj.png" group-title="EntretenEN99;NoticiaEN163",HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="IDG.us" tvg-logo="https://i.imgur.com/oKE9qd3.png" group-title="NoticiaEN163",IDG (720p)
+https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="NoticiaEN163",India Today (720p) [Not 24/7]
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-id="IndywoodTV.in" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="PeliculaEN93;NoticiaEN163",Indywood TV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 tvg-id="InfoWars.us" tvg-logo="https://i.imgur.com/a7h9epj.png" group-title="NoticiaEN163",InfoWars Network (1080p)
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="JoyNews.gh" tvg-logo="https://i.imgur.com/kGuMNmR.png" group-title="NoticiaEN163",Joy NoticiaEN163 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
+#EXTINF:-1 tvg-id="K21News.pk" tvg-logo="https://i.imgur.com/7OYSDUm.png" group-title="NoticiaEN163",K21 NoticiaEN163 (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UC7g-LI8ueb6qTFZ5-gDgrGg.m3u8
+#EXTINF:-1 tvg-id="KTNNews.ke" tvg-logo="https://i.imgur.com/AYxanoy.png" group-title="NoticiaEN163",KTN NoticiaEN163 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
+#EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/Lahore_News.png" group-title="NoticiaEN163",Lahore NoticiaEN163 (720p) [Not 24/7]
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LN24SA.za" tvg-logo="https://i.imgur.com/Hg5YTwu.png" group-title="NoticiaEN163",LN24SA (720p)
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/playlist.m3u8
+#EXTINF:-1 tvg-id="LN247.ng" tvg-logo="https://i.imgur.com/s6PUehQ.jpg" group-title="NoticiaEN163",LN247 (1080p)
+https://oj7lnn58lg82-hls-live.5centscdn.com/LN247/e54a58cc63ad1a32f28ef53006be2937.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveFMTV.bz" tvg-logo="https://i.imgur.com/nT3Wxr6.png" group-title="NoticiaEN163",Love Television (480p)
+https://kalends.anl.bz/localchannels/lovetel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WESHDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="NoticiaEN163",NBC 2 Orlando FL (WESH) (720p)
+https://lnc-wesh.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="KCRADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="NoticiaEN163",NBC 3 Sacramento CA (KCRA) (720p)
+https://lnc-kcra.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="WPTZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="NoticiaEN163",NBC 5 Plattsburgh NY (WPTZ) (720p)
+https://lnc-wptz.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="WGALDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="NoticiaEN163",NBC 8 Lancaster PA (WGAL) (720p)
+https://lnc-wgal.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="KSBWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="NoticiaEN163",NBC 8 Salinas CA (KSBW) (720p)
+https://lnc-ksbw.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="NoticiaEN163",NBC 12 Winston-Salem NC (WXII) (720p)
+https://lnc-wxii.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="NoticiaEN163",NBC NoticiaEN163 Now (1080p)
+https://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-id="Net2TV.gh" tvg-logo="https://i.imgur.com/nkUP9X2.png" group-title="NoticiaEN163",Net2 TV (360p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKpFgDhnwRvUauqsd5h98fw.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us" tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="NoticiaEN163",NoticiaEN163 12 New York (1080p)
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="News18AssamNorthEast.in" tvg-logo="https://i.imgur.com/1cQvTeS.png" group-title="NoticiaEN163",News18 Assam North-East (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCAjBd-r8JWfnRjfhg23nqLQ.m3u8
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="NoticiaEN163",NoticiaEN163 Central (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCPLKy4Ypb4mfblbjJI8Aljw.m3u8
+#EXTINF:-1 tvg-id="NewsOne.pk" tvg-logo="https://i.imgur.com/ivrRYMk.png" group-title="NoticiaEN163",NoticiaEN163 One (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCjHWKUbljF4hp3s5PbgK9uA.m3u8
+#EXTINF:-1 tvg-id="NewsX.in" tvg-logo="https://i.imgur.com/Zpxsc0Q.png" group-title="NoticiaEN163",NoticiaEN163 X (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="NoticiaEN163",Newsmax (1080p)
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsNet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="NoticiaEN163",NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 tvg-id="KCKSLD2.us" tvg-logo="https://i.imgur.com/woMg1xI.png" group-title="NoticiaEN163",NewsNet (KCKS-LD2) (480p) [Not 24/7]
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" group-title="NoticiaEN163",Newsy
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="CulturaEN22;NoticiaEN163",NHK World Japan [Geo-blocked]
+https://sc2022.stream-link.org/tv2306.php?id=e12
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="NoticiaEN163",NHK World Premium (720p) [Not 24/7]
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:-1 tvg-id="NTANews24.ng" tvg-logo="https://i.imgur.com/9ak6bNd.png" group-title="NoticiaEN163",NTA NoticiaEN163 24 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCLLWAXn5F415g2kNAcE_T1g.m3u8
+#EXTINF:-1 tvg-id="NWInfo2.tg" tvg-logo="https://i.imgur.com/0W4GqFD.png" group-title="NoticiaEN163",NW Info 2 EN (576p)
+https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+#EXTINF:-1 tvg-id="OANEncore.us" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="NoticiaEN163",OAN Encore (720p) [Geo-blocked]
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:-1 tvg-id="PayvandTV.us" tvg-logo="https://i.imgur.com/A4gqEmG.png" group-title="NoticiaEN163",Payvand TV (720p) [Not 24/7]
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-id="BlazeLive.us" tvg-logo="https://i.imgur.com/GwxneSQ.png" group-title="NoticiaEN163",Pluto TV Blaze Live (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-logo="https://i.imgur.com/GmA99Tt.png" group-title="NoticiaEN163",Pluto TV CBSN Bay Area CA (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-logo="https://i.imgur.com/9un7R3N.png" group-title="NoticiaEN163",Pluto TV CBSN Boston MA (720p)
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="NoticiaEN163",Pluto TV CBSN Minnesota MN (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://i.imgur.com/FmtTbNY.png" group-title="NoticiaEN163",Pluto TV CBSN Philly PA (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVNews.us" tvg-logo="https://i.imgur.com/JdqA4r9.png" group-title="NoticiaEN163",Pluto TV NoticiaEN163 (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
+#EXTINF:-1 tvg-id="TYTNetwork.us" tvg-logo="https://i.imgur.com/rZQWV08.png" group-title="NoticiaEN163",Pluto TV TYT Network (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PNNNews.pk" tvg-logo="https://i.imgur.com/edKutxd.png" group-title="NoticiaEN163",PNN NoticiaEN163 (720p)
+https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="NoticiaEN163",Press TV (720p)
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PrudentMedia.in" tvg-logo="https://i.imgur.com/DG0x4UD.png" group-title="NoticiaEN163",Prudent Media (1080p)
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 tvg-id="PTV4.ph" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="NoticiaEN163",PTV 4 (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+#EXTINF:-1 tvg-id="PublicNews.pk" tvg-logo="https://i.imgur.com/q3ij8wO.png" group-title="NoticiaEN163",Public NoticiaEN163 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCElJZvY_RVra6qjD8WSQYog.m3u8
+#EXTINF:-1 tvg-id="KCKSLD5.us" tvg-logo="https://i.imgur.com/Yk082yu.png" group-title="NoticiaEN163",Real America's Voice (KCKS-LD5) (480p) [Not 24/7]
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:-1 tvg-id="RedseatTheFirst.us" tvg-logo="https://i.imgur.com/t794qkT.png" group-title="NoticiaEN163",Redseat The First (720p)
+https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="NoticiaEN163",Reuters Now
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RozeNews.pk" tvg-logo="https://i.imgur.com/TedWqfL.png" group-title="NoticiaEN163",Roze NoticiaEN163 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8
+#EXTINF:-1 tvg-id="RT.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="NoticiaEN163",RT NoticiaEN163 (1080p)
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SCCurrents.us" tvg-logo="https://i.imgur.com/8FZsNyK.png" group-title="NoticiaEN163",SC Currents
+https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/playlist.m3u8
+#EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-logo="https://i.imgur.com/9jcV9oG.png" group-title="NoticiaEN163",Silverbird NoticiaEN163 24 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCNuPuew8lLVB3mMAm9_Qt9w.m3u8
+#EXTINF:-1 tvg-id="SindhTVNews.pk" tvg-logo="https://i.imgur.com/Ap9K1lj.png" group-title="NoticiaEN163",Sindh TV NoticiaEN163 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCdNrdgAx3bT6tXJ-RJ9dOBA.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="NoticiaEN163",Sky NoticiaEN163 Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra2.au" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="NoticiaEN163",Sky NoticiaEN163 Extra 2 (540p) [Not 24/7]
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra3.au" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="NoticiaEN163",Sky NoticiaEN163 Extra 3 (1080p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="TelepaceNews.it" tvg-logo="https://i.imgur.com/kC0c9Q6.png" group-title="NoticiaEN163;ReligionEN121",Telepace NoticiaEN163 (720p)
+https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
+#EXTINF:-1 tvg-id="TelesurEnglish.ve" tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png" group-title="NoticiaEN163",TeleSUR English (1080p) [Not 24/7]
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 tvg-id="TheFirstTV.us" tvg-logo="https://i.imgur.com/rOSlp93.png" group-title="NoticiaEN163",The First (1080p)
+https://thefirst-distroscale.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="DocumEN31;NoticiaEN163",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWallStreetJournalLive.us" tvg-logo="https://i.imgur.com/4xSEoNK.png" group-title="NoticiaEN163",The Wall Street Journal Live (720p)
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+#EXTINF:-1 tvg-id="TheYoungTurks.us" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="NoticiaEN163",The Young Turks (TYT) (1080p) [Not 24/7]
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="tickerNews.au" tvg-logo="https://i.imgur.com/z7M0QxV.png" group-title="NoticiaEN163",Ticker NoticiaEN163 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="TimeNews.pk" tvg-logo="https://i.imgur.com/iw0H5mA.png" group-title="NoticiaEN163",Time NoticiaEN163 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCnXxxqVgw9ttLiozpVPjHuw.m3u8
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-logo="https://i.imgur.com/C6QK1LB.png" group-title="NoticiaEN163",Times Now [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
+#EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-logo="https://i.imgur.com/kSCozXg.png" group-title="NoticiaEN163",Times Now Navbharat [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+#EXTINF:-1 tvg-id="TopStoriesbyNewsy.us" tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="NoticiaEN163",Top Stories by Newsy (720p)
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="NoticiaEN163",TRT World (1080p) [Not 24/7]
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="TrustTV.ng" tvg-logo="https://i.imgur.com/2le4qYj.png" group-title="DocumEN31;EntretenEN99;NoticiaEN163",Trust TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8
+#EXTINF:-1 tvg-id="TV360Nigeria.ng" tvg-logo="https://i.imgur.com/yJ3ivGa.png" group-title="NoticiaEN163",TV360 Nigeria (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCBzu4YqGiBxBD8pq8NiBuKw.m3u8
+#EXTINF:-1 tvg-id="TVCNews.ng" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="NoticiaEN163",TVC NoticiaEN163 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="NoticiaEN163",TVP
+http://78.129.193.20/tsstreamer/TVP_SD.ts
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="NoticiaEN163",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="UsWeeklyTV.us" tvg-logo="https://i.imgur.com/IMsk88B.png" group-title="EntretenEN99;NoticiaEN163",US Weekly TV
+https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USATODAY.us" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="NoticiaEN163",USA Today (1080p)
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
+#EXTINF:-1 tvg-id="VaticanNewsEnglish.va" tvg-logo="https://i.imgur.com/4kSW6RM.jpg" group-title="NoticiaEN163;ReligionEN121",Vatican NoticiaEN163 English (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxIsefyl9g9A5SGWA4FvGIA.m3u8
+#EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="NoticiaEN163",VOA TV Africa (1080p)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DKD2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="NoticiaEN163",W14DK-D 14.2 NEWSNET
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNationNewYork.us" tvg-logo="https://i.imgur.com/YFFSEd9.png" group-title="NoticiaEN163",WeatherNation New York (720p)
+https://siloh.pluto.tv/lilo/production/WeatherNation/NYC/master.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="NoticiaEN163",WION (1080p)
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="ZBCNews.zw" tvg-logo="https://i.imgur.com/CMANdot.png" group-title="NoticiaEN163",ZBC NoticiaEN163 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxiW1iTMYgjyh7Qgkiyj2PQ.m3u8

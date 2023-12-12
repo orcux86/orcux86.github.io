@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="DeporteES26",Awapa DeporteES26 TV (1080p) [Not 24/7]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="DeporteES26",BeIN SPORTS XTRA En Espanol (720p)
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="DeporteES26",Best Cable DeporteES26 Perú (720p)
+https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
+#EXTINF:-1 tvg-id="CDR.cl" tvg-logo="https://i.imgur.com/xevZNi6.png" group-title="DeporteES26",CDR (720p)
+https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
+#EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="DeporteES26",CnAr Deportes (1440p)
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="DeporteES26",Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-id="CRTV.cl" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="DeporteES26",CRTV (720p)
+https://vdo.panelstreaming.live:3058/stream/play.m3u8
+#EXTINF:-1 tvg-id="D13.cl" tvg-logo="https://i.imgur.com/CmVZkbS.png" group-title="DeporteES26",D13 (1080p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="DeporteES26",DeporTV (1080p) [Not 24/7]
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DeporteES26",DirecTV DeporteES26 (480p) [Geo-blocked]
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="DTPlay.bo" tvg-logo="https://i.imgur.com/2nVIjho.png" group-title="DeporteES26",DT Play (Deporte Total) (720p) [Not 24/7]
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/tkjUFzb.png" group-title="DeporteES26",Esport3 (1080p) [Geo-blocked]
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="FTV.bo" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="DeporteES26",FTV (720p)
+https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="DeporteES26",Monterrico TV (1080p) [Not 24/7]
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DeporteES26",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-logo="https://i.imgur.com/0pDy6f4.png" group-title="DeporteES26",Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="DeporteES26",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 tvg-id="SEOTV5Deportes.bo" tvg-logo="https://i.imgur.com/N56B7si.png" group-title="DeporteES26",SEO TV 5 Deportes (1080p) [Not 24/7]
+https://live.seo.tv.bo/live/5SEO.m3u8
+#EXTINF:-1 tvg-id="SportsMax.jm" tvg-logo="https://i.imgur.com/FBYjSCt.png" group-title="DeporteES26",SportsMax (720p)
+http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="DeporteES26",Teledeporte (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="DeporteES26",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TurfMovil.cl" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="DeporteES26",Turf Móvil (720p)
+https://janus.tvturf.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="DeporteES26",TVMAX (720p)
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="UDTV.es" tvg-logo="https://i.ibb.co/GJzmcPz/union-deportiva-las-palmas-tv-en-directo.png" group-title="DeporteES26",UD Las Palmas TV (1080p) [Not 24/7]
+https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8
+#EXTINF:-1 tvg-id="VinxTV.es" tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="DeporteES26",Vinx TV (1080p)
+https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
+#EXTINF:-1 tvg-id="WAPADT2.pr" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="DeporteES26",WAPA-DT2 (WAPA Deportes) (1080p)
+https://live.field59.com/wapa/wapa2/playlist.m3u8

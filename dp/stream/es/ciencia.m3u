@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AstroNet.ar" tvg-logo="https://i.imgur.com/SNbLfau.png" group-title="CienciaES9",AstroNet (360p)
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+#EXTINF:-1 tvg-id="ConCienciaTV.ve" tvg-logo="https://i.imgur.com/kzOOz8R.png" group-title="CienciaES9",ConCiencia TV (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/06843a89c55eb976f980641de0844259c76eca33/master.m3u8
+#EXTINF:-1 tvg-id="EXCTV.ve" tvg-logo="https://i.imgur.com/Znd1Ml9.png" group-title="CienciaES9",Explosión Creativa (720p) [Not 24/7]
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="CienciaES9",Hiperconectados Televisión (720p)
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="MilennioTV.ar" tvg-logo="https://i.ibb.co/0C5ZpfP/7-LPSf1-Th-400x400.jpg" group-title="CienciaES9",Milennio TV (720p)
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCiencia.us" tvg-logo="https://i.imgur.com/MJQTxZT.png" group-title="CienciaES9",Pluto TV Ciencia (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-logo="https://i.imgur.com/LYy0Rfo.png" group-title="CienciaES9",TEC TV (720p) [Not 24/7]
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="TechScience365.ar" tvg-logo="https://i.imgur.com/UtqOpaY.png" group-title="CienciaES9",TechScience 365 (360p)
+https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="DocumES5;CienciaES9",Xtrema Animal (360p)
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8

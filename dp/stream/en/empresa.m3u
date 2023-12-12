@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="EmpresaEN24",30A Investment Pitch
+https://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 tvg-id="Ameritrade.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="EmpresaEN24",Ameritrade (1080p) [Not 24/7]
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AusbizTV.au" tvg-logo="https://i.imgur.com/8vGGdB0.png" group-title="EmpresaEN24",Ausbiz TV
+https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="EmpresaEN24",Bloomberg TV
+https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="EmpresaEN24",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="EmpresaEN24",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAustralia.au" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="EmpresaEN24",Bloomberg TV Australia (270p)
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="EmpresaEN24",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="EmpresaEN24",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BloombergTVLiveEvent.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="EmpresaEN24",Bloomberg TV US Live Event (720p)
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPoliticsLiveEvent.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="EmpresaEN24",Bloomberg TV US Politics Live Event (720p)
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="EmpresaEN24",Bloomberg TV+
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png" group-title="EmpresaEN24",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 tvg-id="BusinessRockstars.us" tvg-logo="https://i.imgur.com/vfAMWLJ.png" group-title="EmpresaEN24",EmpresaEN24 Rockstars (720p)
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="EmpresaEN24",CNBC Africa (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="EmpresaEN24" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",CNBC Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DeFianceMedia.pr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU" group-title="EmpresaEN24",DeFiance Media (1080p)
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-logo="https://i.imgur.com/isRfHYZ.png" group-title="EmpresaEN24",Entrepreneur (720p)
+https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://i.imgur.com/ueI0VwW.png" group-title="EmpresaEN24",ET Now (720p)
+https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-logo="https://i.imgur.com/WK4tZ6p.png" group-title="EmpresaEN24",NDTV Profit [Geo-blocked]
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RealVision.us" tvg-logo="https://i.imgur.com/8t56RoQ.png" group-title="EmpresaEN24",Real Vision (720p)
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1 tvg-id="TDAmeritradeNetwork.us" tvg-logo="https://i.imgur.com/RbVdkJ5.png" group-title="EmpresaEN24",TD Ameritrade Network (1080p)
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="EmpresaEN24",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-logo="https://i.imgur.com/vkWBtL4.png" group-title="EmpresaEN24",Zee EmpresaEN24 (720p)
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8

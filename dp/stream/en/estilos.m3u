@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="EstilosEN46",Antiques Road Trip (720p)
+https://lnc-antiques-road-trip.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="BetterHealthTV.us" tvg-logo="https://i.imgur.com/dThvIsV.png" group-title="EstilosEN46",Better Health TV (480p)
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+#EXTINF:-1 tvg-id="BizTV.us" tvg-logo="https://i.imgur.com/yaNXOnO.png" group-title="EstilosEN46",Biz TV (1080p)
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 tvg-id="bspoketv.us" tvg-logo="https://i.imgur.com/7f61MHD.png" group-title="EstilosEN46",bspoketv (1080p) [Not 24/7]
+https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVLifeBae.us" tvg-logo="https://i.imgur.com/cegRbXh.png" group-title="EstilosEN46",Bumblebee TV LifeBae (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+#EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://i.imgur.com/od1taaY.png" group-title="EstilosEN46",Cats 24/7 (US) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
+#EXTINF:-1 tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="EstilosEN46",CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Civilized.us" tvg-logo="https://i.imgur.com/cn5KDTc.png" group-title="EstilosEN46",Civilized. (1080p) [Not 24/7]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
+#EXTINF:-1 tvg-id="Complex.us" tvg-logo="https://i.imgur.com/NdYARAZ.png" group-title="EstilosEN46",Complex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Dabl.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/512px-Dabl_logo.svg.png" group-title="EstilosEN46",Dabl (1080p)
+http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+#EXTINF:-1 tvg-id="Diva.za" tvg-logo="https://i.imgur.com/U9wMnQ0.png" group-title="EstilosEN46",Diva (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="EstilosEN46",Fashion TV
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.imgur.com/b4KYkyd.png" group-title="EstilosEN46",Fashion TV (England) (1080p) [Not 24/7]
+https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVPG16.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="EstilosEN46",Fashion TV PG16 (144p)
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="EstilosEN46",Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-logo="https://i.imgur.com/7Bigo7u.png" group-title="EstilosEN46",FashionTV Czech&Slovak (450p) [Not 24/7]
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Glamour.us" tvg-logo="https://i.imgur.com/W8RJdsZ.png" group-title="EstilosEN46",Glamour (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="EstilosEN46",Global Fashion Channel (1080p)
+https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="GQ.us" tvg-logo="https://i.imgur.com/mTiaf9I.png" group-title="EstilosEN46",GQ (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-logo="https://i.imgur.com/O7SdkBh.png" group-title="EstilosEN46",Jewelery Maker (1080p)
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KCKSLD12.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png" group-title="EstilosEN46",Jewelry TV (KCKS-LD12) (480p)
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+#EXTINF:-1 tvg-id="LIVExLIVE.us" tvg-logo="https://i.imgur.com/KFzEoed.png" group-title="EstilosEN46",LIVExLIVE (1080p)
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-id="LNKTVHealth.us" tvg-logo="https://i.imgur.com/dGgmOY0.png" group-title="EstilosEN46",LNKTV Health (1080p)
+http://10tv.lincoln.ne.gov/live/live.m3u8
+#EXTINF:-1 tvg-id="Localish.us" tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="EstilosEN46",Localish (720p)
+https://lnc-localish.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="OURTV.us" tvg-logo="https://i.imgur.com/LMeoW0l.png" group-title="EstilosEN46",Opportunities in Urban Renaissance Television (OURTV) (720p)
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBestLife.us" tvg-logo="https://i.imgur.com/nLS7Oh2.png" group-title="EstilosEN46",Pluto TV Best Life (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5887ba337b8e94223eb121bd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=630&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVFitness.us" tvg-logo="https://i.imgur.com/3Hs6kO8.png" group-title="EstilosEN46",Pluto TV Fitness (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0c92783b3f0007a4c7df&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=3b0b1ee4-3c26-4c24-8a7c-1b12f2e4e536&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVFood.uk" tvg-logo="https://i.imgur.com/HTLo1GG.png" group-title="EstilosEN46",Pluto TV Food (England) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVHome.us" tvg-logo="https://i.imgur.com/FDxMMBb.png" group-title="EstilosEN46",Pluto TV Home (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5eb96303f5bb020008e7e44f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8044788b-0583-11eb-a18c-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVHomesUnderHammer.us" tvg-logo="https://i.imgur.com/EPDkpba.png" group-title="EstilosEN46",Pluto TV Homes Under Hammer (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="EstilosEN46",Revry
+https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry2.us" tvg-logo="https://i.imgur.com/bKpligT.png" group-title="EstilosEN46",Revry 2
+https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryNews.us" tvg-logo="https://i.imgur.com/lKMYCkb.png" group-title="EstilosEN46",Revry NoticiaEN163
+https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryQueer.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="EstilosEN46",Revry Queer (720p)
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SmartLifeStyleTV.us" tvg-logo="https://i.imgur.com/kHFlTEy.png" group-title="EstilosEN46",Smart Life Style Television (LLBN) (720p)
+https://brightstar-sls.secure.footprint.net/egress/bhandler/brightstar/brightstarslshd/manifest.m3u8
+#EXTINF:-1 tvg-id="SoReal.us" tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="EstilosEN46",So...Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="EVRGRN.us" tvg-logo="https://i.imgur.com/DKmEBLp.png" group-title="EstilosEN46",STIRR EVRGRN (1080p)
+https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
+#EXTINF:-1 tvg-id="SuperyachtTV.mc" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="EstilosEN46",Superyacht TV (1080p)
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TheBeachChannel.us" tvg-logo="https://i.imgur.com/KShaqAp.png" group-title="EstilosEN46",The Beach Channel
+https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCraftistry.us" tvg-logo="https://i.imgur.com/0hQoyYk.png" group-title="EstilosEN46",The Craftistry (1080p)
+https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="EstilosEN46",The Design Network
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-logo="https://i.imgur.com/4v93XUB.png" group-title="EstilosEN46",The Jamie Oliver Channel (720p)
+https://lnc-jamie-oliver.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="EstilosEN46",TV Kesehatan (1080p)
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTINF:-1 tvg-id="VanityFair.us" tvg-logo="https://i.imgur.com/KMUYfnz.jpg" group-title="EstilosEN46",Vanity Fair (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://i.imgur.com/2i333B9.jpg" group-title="EstilosEN46",Vogue (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/4unUuGy.png" group-title="EstilosEN46",World Fashion Channel International (1080p)
+https://live-3.otcnet.ru/wfcenmulti/playlist.m3u8

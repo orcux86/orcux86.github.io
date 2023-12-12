@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AccessLaPorteCountyChannel97.us" tvg-logo="https://i.imgur.com/Mflgw0f.png" group-title="LegalEN91",Access La Porte Country Channel 97 Michigan City IN
+https://vbfast-c.viebit.com/810fe13b-a9ac-46b3-a523-5a7e90ddfd25/playlist.m3u8
+#EXTINF:-1 tvg-id="AccessSarasota.us" tvg-logo="https://i.imgur.com/XrEXXHn.png" group-title="LegalEN91",Access Sarasota (Sarasota County FL) (1080p)
+https://ythls.armelin.one/channel/UCqHDwKPPOhzLmtb4TvwIZZQ.m3u8
+#EXTINF:-1 tvg-id="AccessVisionChannel17.us" tvg-logo="https://i.imgur.com/vi4TCdb.png" group-title="LegalEN91",AccessVision Channel 17 Battle Creek MI
+https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ACTV.us" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="LegalEN91",ACTV
+https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/6361162879_AZ-247.stream_247/chunklist.m3u8
+#EXTINF:-1 tvg-id="Althingi.is" tvg-logo="https://i.imgur.com/tKNPdea.png" group-title="LegalEN91",Althingi (1080p) [Not 24/7]
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
+#EXTINF:-1 tvg-id="BanningCityTV.us" tvg-logo="https://i.imgur.com/pKCvuDc.png" group-title="LegalEN91",Banning CityTV (Banning CA) (1080p)
+https://vblive-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png" group-title="LegalEN91",BBC Parliament (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BATVGovernmentTV.us" tvg-logo="https://i.imgur.com/VPGIfVh.png" group-title="LegalEN91",Bloomfield Access Government TV (BATV) (Bloomfield CT) (480p)
+https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="CVCGovernment.us" tvg-logo="https://i.imgur.com/qLJhNhq.png" group-title="LegalEN91",Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)
+https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8
+#EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us" tvg-logo="https://i.imgur.com/eUTDIQ2.png" group-title="LegalEN91",Brevard County Government Access TV (Brevard FL) (720p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
+#EXTINF:-1 tvg-id="BPTV.us" tvg-logo="https://i.imgur.com/ObNBL7L.png" group-title="LegalEN91",Buena Park Television (360p)
+https://edge-f.swagit.com/live/buenaparkca/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="CFMTVChannel98.us" tvg-logo="https://i.imgur.com/LGs524I.png" group-title="LegalEN91",CFM TV Channel 98 (360p)
+https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTV.us" tvg-logo="https://i.imgur.com/hNdQFtK.jpg" group-title="LegalEN91",Champaign Government Television (CGTV) (Champaign IL) (720p)
+https://reflect-champaign.cablecast.tv/live-7/live/live.m3u8
+#EXTINF:-1 tvg-id="KTOP.us" tvg-logo="https://i.imgur.com/duM548G.png" group-title="LegalEN91",City of Oakland (KTOP) (480p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CollierTV.us" tvg-logo="https://i.imgur.com/dkpTHI9.png" group-title="LegalEN91",Collier Television CTV (Naples FL) (720p)
+https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="CoralGablesTV.us" tvg-logo="https://i.imgur.com/Z7QvRzd.png" group-title="LegalEN91",Coral Gables Television (Coral Gables FL) (720p)
+https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/coralgables/G0937_004/playlist.m3u8
+#EXTINF:-1 tvg-id="CPACEnglish.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="LegalEN91",CPAC (720p)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CupertinoCityChannel.us" tvg-logo="https://i.imgur.com/p9Jn0Dy.png" group-title="LegalEN91",Cupertino City Channel (720p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8
+#EXTINF:-1 tvg-id="DCC.us" tvg-logo="https://i.imgur.com/YBWbiWZ.png" group-title="LegalEN91",DC Council Channel (1080p)
+https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 tvg-id="DCCouncilHearingRoom120.us" tvg-logo="https://i.imgur.com/8fljC7g.png" group-title="LegalEN91",DC.gov Council Hearing Room 120 (Washington DC) (1080p)
+https://video.oct.dc.gov/out/u/97_12.m3u8
+#EXTINF:-1 tvg-id="Denver8TV.us" tvg-logo="https://i.imgur.com/wMIy5jb.png" group-title="LegalEN91",Denver 8 TV (Denver CO) (720p)
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+#EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="LegalEN91",District of Columbia Network (DCN) (1080p)
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="LegalEN91",EbS Live (Europe by Satellite) (1080p)
+https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="LegalEN91",EbS+ Live (Europe by Satellite) (1080p)
+https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
+#EXTINF:-1 tvg-id="EscambiaCountyTV.us" tvg-logo="https://i.imgur.com/TAvJdpo.png" group-title="LegalEN91",Escambia County TV ECTV (Escambia County FL) (720p)
+https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
+#EXTINF:-1 tvg-id="FairTVGovernment.us" tvg-logo="https://i.imgur.com/u2WErtN.png" group-title="LegalEN91",Fairfield FairTV Government Channel (Fairfield CT) (1080p)
+https://streams.helnix.com/autoHLS/02d8dab006ef9ffd/02d8dab006ef9ffd.m3u8
+#EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="LegalEN91",Fernandina Beach City Meeting (Fernandina Beach FL) (720p) [Not 24/7]
+https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="CityofFlagstaff.us" tvg-logo="https://i.imgur.com/SZAwb17.png" group-title="LegalEN91",Flagstaff City Council Meeting (Flagstaff AZ) (720p)
+https://edge-f.swagit.com/live/flagstaffaz/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="LegalEN91",Folketinget (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="FLTV.us" tvg-logo="https://i.imgur.com/lQZ9RoB.png" group-title="LegalEN91",Fort Lauderdale FLTV (Fort Lauderdale FL) (720p)
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CityofFortPierce.us" tvg-logo="https://i.imgur.com/2ChoSsi.png" group-title="LegalEN91",Fort Pierce Live Stream (Fort Pierce FL) (720p)
+https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="CMAC3.us" tvg-logo="https://i.imgur.com/ToZzguz.png" group-title="LegalEN91",Fresno CMAC 3 Government Channel (720p)
+https://reflect-vod-cmac.cablecast.tv/live-13/live/live.m3u8
+#EXTINF:-1 tvg-id="Community12TV.us" tvg-logo="https://i.imgur.com/Oel3q43.png" group-title="LegalEN91",Gainesville Community 12TV (Gainesville FL) (720p)
+https://lin10.isilive.ca/live/gainesville/live/index.m3u8
+#EXTINF:-1 tvg-id="GlendaleTV.us" tvg-logo="https://i.imgur.com/akbtQ33.png" group-title="LegalEN91",Glendale TV (720p) [Geo-blocked]
+https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="GovernmentofSaintLucia.lc" tvg-logo="https://i.ibb.co/X8M9fxs/Istockphoto-1096891556-612x612.jpg" group-title="LegalEN91",Government of Saint Lucia (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC4al3A_gysYEIzAM1L2qZbg.m3u8
+#EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="LegalEN91",Hillsborough County TV HTV (Hillsborough County FL) (360p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
+#EXTINF:-1 tvg-id="G10TV.us" tvg-logo="https://i.imgur.com/5VPgAxB.jpg" group-title="LegalEN91",Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)
+http://jacksonville.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="LACityView35.us" tvg-logo="https://i.imgur.com/3PnD83G.png" group-title="LegalEN91",LA CityView 35 (1080p)
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="LakeFrontTV.us" tvg-logo="https://i.imgur.com/ROb1BNG.png" group-title="LegalEN91",Leesburg Lakefront TV (Leesburg FL) (720p)
+https://reflect-lakefront-leesburgflorida.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-id="LeominsterTVGovernment.us" tvg-logo="https://i.imgur.com/aHkRDQw.png" group-title="LegalEN91",Leominster TV Government (720p)
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LBTV.us" tvg-logo="https://i.imgur.com/DjkVuFF.png" group-title="LegalEN91",Long Beach Television (720p)
+https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/longbeach/G0020_001/playlist.m3u8
+#EXTINF:-1 tvg-id="LongmontPublicMediaChannel16.us" tvg-logo="https://i.imgur.com/ib9HNYo.png" group-title="LegalEN91",Longmont Public Media Channel (Channel 16) (Longmont CO) (720p)
+https://ch8reflector.longmontpublicmedia.org/hls/16/ch16.m3u8
+#EXTINF:-1 tvg-id="MarinTVGovernmentChannel.us" tvg-logo="https://i.imgur.com/HsBBu8g.png" group-title="LegalEN91",Marin TV Government Channel (San Rafael CA) (1080p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/ddf2a073e3da4acb9feb34bef6d58672/playlist.m3u8
+#EXTINF:-1 tvg-id="TheCityofMarina.us" tvg-logo="https://i.imgur.com/ldyanxN.png" group-title="LegalEN91",Marina TV (Marina CA) (720p)
+https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamd/manifest.m3u8
+#EXTINF:-1 tvg-id="MartinCountyTV.us" tvg-logo="https://i.imgur.com/7VzlbLp.png" group-title="LegalEN91",Martin County MCTV (Martin County FL) (720p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
+#EXTINF:-1 tvg-id="MBTV.us" tvg-logo="https://i.imgur.com/LyqFr9E.png" group-title="LegalEN91",Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
+https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="LegalEN91",Midpen Media Center Government etc Channel 29 (720p)
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-logo="https://i.imgur.com/YJfzdSu.png" group-title="LegalEN91",Monroe County Television MCTV (Monroe County FL) (1080p)
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="MorroBayChannel20.us" tvg-logo="https://i.imgur.com/UZeC6xH.png" group-title="LegalEN91",Morro Bay Channel 20 (480p)
+https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8
+#EXTINF:-1 tvg-id="GovernmentTV16.us" tvg-logo="https://i.imgur.com/iv9Vfcb.png" group-title="LegalEN91",Nashua GTV Channel 16 Nashua NH
+https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NCMGovernmentPoliticsChannel.us" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="LegalEN91",NCM Government & Politics
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_002/playlist.m3u8
+#EXTINF:-1 tvg-id="NCTVChannel16.us" tvg-logo="https://i.imgur.com/vquPm9I.png" group-title="LegalEN91",Newington Community Television Channel 16 (Newington CT) (720p)
+https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="NBTV.us" tvg-logo="https://i.imgur.com/wKSZn6x.png" group-title="LegalEN91",Newport Beach Television (720p)
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
+#EXTINF:-1 tvg-id="NMBTV.us" tvg-logo="https://i.imgur.com/HTNoNnh.png" group-title="LegalEN91",North Miami Beach TV (NMBTV) (North Miami Beach FL) (720p)
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom1.ie" tvg-logo="https://i.imgur.com/JLYqKC0.jpg" group-title="LegalEN91",Oireachtas TV Committee Room 1 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom2.ie" tvg-logo="https://i.imgur.com/2Wxx2jK.jpg" group-title="LegalEN91",Oireachtas TV Committee Room 2 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom3.ie" tvg-logo="https://i.imgur.com/EoAQeg5.jpg" group-title="LegalEN91",Oireachtas TV Committee Room 3 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom4.ie" tvg-logo="https://i.imgur.com/U9U4rgs.jpg" group-title="LegalEN91",Oireachtas TV Committee Room 4 (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVDailEireann.ie" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="LegalEN91",Oireachtas TV Dáil Éireann (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVSeanadEireann.ie" tvg-logo="https://i.imgur.com/c5TI2DT.jpg" group-title="LegalEN91",Oireachtas TV Seanad Éireann (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
+#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-logo="https://i.imgur.com/xKXs6ER.png" group-title="LegalEN91",Ontario Parliamentary Network
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1 tvg-id="OrangeTV.us" tvg-logo="https://i.imgur.com/ANfTXIe.png" group-title="LegalEN91",Orange County Orange TV (Orange County FL) (720p)
+https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrangeGovernmentAccessTV.us" tvg-logo="https://i.imgur.com/hyPTfxA.png" group-title="LegalEN91",Orange Government Access TV (Orange CT) (720p)
+https://ogat.secure.footprint.net/egress/bhandler/ogat/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="PBCTVChannel20.us" tvg-logo="https://i.imgur.com/2bGBbOZ.png" group-title="LegalEN91",Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)
+https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ParliamentofKenya.ke" tvg-logo="https://i.imgur.com/fAULyHh.jpg" group-title="LegalEN91",Parliament of Kenya (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCXuseB7juWB7DIgTJcwtHFQ.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="LegalEN91",Parliament TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="PascoTV.us" tvg-logo="https://i.imgur.com/CM91sME.png" group-title="LegalEN91",Pasco TV (Pasco County FL) (480p)
+https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
+#EXTINF:-1 tvg-id="PBCJamaicaTV.jm" tvg-logo="https://i.ibb.co/WnDWvck/PBC-Jamaica-TV-tvtolive-com.jpg" group-title="LegalEN91",PBC Jamaica TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC8X0kkF7HNdWUxTMjAagJxw.m3u8
+#EXTINF:-1 tvg-id="PHXTV.us" tvg-logo="https://i.imgur.com/RkTKR6x.png" group-title="LegalEN91",PHXTV
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/chunklist.m3u8
+#EXTINF:-1 tvg-id="PlacentiaTV.us" tvg-logo="https://i.imgur.com/CKwmLLN.png" group-title="LegalEN91",Placentia TV (Placentia CA) (720p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CityofPompanoBeach.us" tvg-logo="https://i.imgur.com/Bv9OGrH.png" group-title="LegalEN91",Pompano Beach Web Streaming (Pompano Beach FL) (720p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
+#EXTINF:-1 tvg-id="PSLTV.us" tvg-logo="https://i.imgur.com/kzdRmTN.png" group-title="LegalEN91",Port St Lucie PSL TV (Port St Lucie FL) (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
+#EXTINF:-1 tvg-id="PrescottValleyTV.us" tvg-logo="https://i.imgur.com/tIwLdzd.png" group-title="LegalEN91",Prescott Valley TV
+https://live-h1.frontlayer.net/fl207891/live/chunks.m3u8
+#EXTINF:-1 tvg-id="SansadTV.in" tvg-logo="https://i.imgur.com/TWSZC2H.png" group-title="LegalEN91",Sansad TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCISgnSNwqQ2i8lhCun3KtQg.m3u8
+#EXTINF:-1 tvg-id="SMCTVChannel23.us" tvg-logo="https://i.imgur.com/J2SKPoY.png" group-title="LegalEN91",Santa Maria Community Television Government Channel (720p)
+https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="CityTV20SantaMonica.us" tvg-logo="https://i.imgur.com/NY4fOLy.png" group-title="LegalEN91",Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePeninsulaChannel.us" tvg-logo="https://i.imgur.com/Ybp6YKD.png" group-title="LegalEN91",Seaside CA The Peninsula Channel (720p)
+https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streame/manifest.m3u8
+#EXTINF:-1 tvg-id="SFGovTV.us" tvg-logo="https://i.imgur.com/uYXuwmV.png" group-title="LegalEN91",SFGovTV San Francisco The Government Channel (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_003/playlist.m3u8
+#EXTINF:-1 tvg-id="SGTV.us" tvg-logo="https://i.imgur.com/rVyWa2A.png" group-title="LegalEN91",SGTV (Seminole County FL) (1080p)
+https://live.seminolecountyfl.gov/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="GTV.us" tvg-logo="https://i.imgur.com/xN6WM3N.png" group-title="LegalEN91",St. Johns County Government GTV (St. Johns County FL) (720p)
+https://edge-f.swagit.com/live/stjohnscountyfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="SPTV.us" tvg-logo="https://i.imgur.com/fl8I3cg.png" group-title="LegalEN91",St. Pete TV (SPTV) (St Petersburg FL) (360p)
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_002/playlist.m3u8
+#EXTINF:-1 tvg-id="StocktonGovTV.us" tvg-logo="https://i.imgur.com/Ko4m4iw.png" group-title="LegalEN91",Stockton GovTV (Stockton CA) (720p)
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
+#EXTINF:-1 tvg-id="WFSUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" group-title="LegalEN91",The Florida Channel (480p)
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="Thornton8.us" tvg-logo="https://i.imgur.com/C013OWn.png" group-title="LegalEN91",Thornton Government Access Channel 17 (Thornton CO) (1080p)
+https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="TV4.us" tvg-logo="https://i.imgur.com/CRvQ6sF.png" group-title="LegalEN91",TV4 (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_001/playlist.m3u8
+#EXTINF:-1 tvg-id="WLCT96.us" tvg-logo="https://i.imgur.com/ooby0ka.png" group-title="LegalEN91",Wolcott Governmental TV (Wolcott CT) (720p)
+https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8
+#EXTINF:-1 tvg-id="YouDotGov.us" tvg-logo="https://i.imgur.com/4Mc7baR.png" group-title="LegalEN91",YouDotGov
+https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streama/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuma77.us" tvg-logo="https://i.imgur.com/KBriwwj.png" group-title="LegalEN91",Yuma77
+https://securestream6.champds.com/hlssstc/YumaCoAZLIVE/master.m3u8
+#EXTINF:-1 tvg-id="YumaChannel72.us" tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="LegalEN91",Yuma AZ CH 72
+https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streama/playlist.m3u8
+#EXTINF:-1 tvg-id="YumaChannel73.us" tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="LegalEN91",Yuma AZ CH 73
+https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streamb/playlist.m3u8
+#EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png" group-title="LegalEN91",Рада
+http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6

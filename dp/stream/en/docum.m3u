@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="48Hours.us" tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="DocumEN31",48 Hours (Pluto TV) (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="DocumEN31",AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="DocumEN31",CGTN DocumEN31 (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="DocumEN31",Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="DocumEN31",Crime 360 (720p)
+https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="DocumEN31",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" tvg-logo="https://i.imgur.com/2248nxX.png" group-title="DocumEN31",Docurama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="HausaTV.ir" tvg-logo="https://i.ibb.co/fxXrKjN/IMG-20230629-141854.jpg" group-title="CulturaEN22;DocumEN31",Hausa TV (432p)
+https://live1.presstv.ir/live/hausatvha/index.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="DocumEN31",Law & Crime (720p)
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 tvg-id="MagellanTV.us" tvg-logo="https://i.imgur.com/Ijivmw7.png" group-title="DocumEN31",Magellan TV (720p)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-id="MonarchChannel.us" tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="DocumEN31",Monarch Channel (720p)
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="DocumEN31",Pluto TV Animals (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56b27f85ff3037045055037e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=666&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVAnimals.uk" tvg-logo="https://i.imgur.com/KuPue6S.png" group-title="DocumEN31",Pluto TV Animals (England) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVBiography.uk" tvg-logo="https://i.imgur.com/MwuIHbX.png" group-title="DocumEN31",Pluto TV Biography (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCelebrity.us" tvg-logo="https://i.imgur.com/YPfJS0B.png" group-title="DocumEN31",Pluto TV Celebrity (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8bf1472907815f66a866dd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=320&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCrime.uk" tvg-logo="https://i.imgur.com/QwEpDY9.png" group-title="DocumEN31",Pluto TV Crime (England) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-logo="https://i.imgur.com/ICOzMFc.png" group-title="DocumEN31",Pluto TV Documentaries (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="DocumEN31",Pluto TV Forensic Files en ESP (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="DocumEN31",Pluto TV HISTORY (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d767b1c126c65d0a307355f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=52e8f9a9-0583-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVInside.uk" tvg-logo="https://i.imgur.com/Tb4GNml.png" group-title="DocumEN31",Pluto TV Inside (England) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767857f65029ce2385b217/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767857f65029ce2385b217&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=302&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="DocumEN31",Pluto TV Paranormal (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5adf96e3e738977e2c31cb04&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=669&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVParanormal.uk" tvg-logo="https://i.imgur.com/udxOeQJ.png" group-title="DocumEN31",Pluto TV Paranormal (England) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=
+#EXTINF:-1 tvg-id="SkillsPlusThrills.us" tvg-logo="https://i.imgur.com/TAszwqm.png" group-title="DocumEN31",Pluto TV Skills + Thrills (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-logo="https://i.imgur.com/bbqk8XO.png" group-title="DocumEN31",Pluto TV Voyager Documentaries (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=589aa03df9ba56a84197a560&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=681&terminate=false&userId=
+#EXTINF:-1 tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="DocumEN31",Real Stories
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="DocumEN31",Reelz
+https://lnc-reelz.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-logo="https://i.imgur.com/IqebTlK.png" group-title="DocumEN31",Reelz Channel (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="DocumEN31",RT DocumEN31 English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="SwordandShield.us" tvg-logo="https://i.imgur.com/xwHhiAc.png" group-title="DocumEN31",Sword and Shield (720p)
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8
+#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="DocumEN31;NoticiaEN163",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TrustTV.ng" tvg-logo="https://i.imgur.com/2le4qYj.png" group-title="DocumEN31;EntretenEN99;NoticiaEN163",Trust TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8

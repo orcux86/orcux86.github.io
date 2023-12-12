@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://alternatv.ar/alternatv.png" group-title="CulturaES28;DocumES5;EntretenES84;GeneralES10;PeliculaES39;MusicES129",AlternaTV (720p)
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PeliculaES39",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="PeliculaES39",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="PeliculaES39",CINE.AR (720p) [Not 24/7]
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="PeliculaES39",Cinemax East (360p) [Geo-blocked]
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EvaRetro.cl" tvg-logo="https://i.imgur.com/Cwy0zcq.png" group-title="PeliculaES39",EvaRetro (Corporación Eva) (600p) [Not 24/7]
+https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="PeliculaES39",Filmex (Xumo) (1080p) [Geo-blocked]
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="PeliculaES39",Filmex Clásico (1080p) [Geo-blocked]
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Moovimex.mx" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="PeliculaES39",Moovimex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieFe.co" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="PeliculaES39",MovieFe (720p) [Not 24/7]
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="PeliculaES39",MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NextHD.py" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="PeliculaES39;MusicES129",Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="PeliculaES39",PlanetaTV Movie (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="PeliculaES39",Pluto TV Action (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.es" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="PeliculaES39",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.es" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="PeliculaES39",Pluto TV Cine Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.es" tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="PeliculaES39",Pluto TV Cine Estelar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="CineTerror.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="PeliculaES39",Pluto TV Cine Terror (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us" tvg-logo="https://i.imgur.com/GVOYX4L.png" group-title="PeliculaES39",Pluto TV Estrellas de Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVNovelasDrama.us" tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="PeliculaES39",Pluto TV Novelas Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVNovelasThriller.us" tvg-logo="https://i.imgur.com/WJnHkEm.png" group-title="PeliculaES39",Pluto TV Novelas Thriller (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="PeliculaES39",Pluto TV Sci-Fi (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="PeliculaES39",Pluto TV Telemundo Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="RakutenTVSpotlight.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="PeliculaES39",Rakuten Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="PeliculaES39",Retro Plus 3 HD (720p)
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="PeliculaES39",SEO TV 4 Películas (1080p)
+https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="PeliculaES39",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="PeliculaES39",Top Cine (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="PeliculaES39",Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="PeliculaES39",Xtrema Cine Asia (268p)
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="ComediaES9;PeliculaES39",Xtrema Cine ComediaES9 (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="PeliculaES39",Xtrema Cine Drama (360p)
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="PeliculaES39",Xtrema Cine Europa (360p)
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="FamiliaES8;PeliculaES39",Xtrema Cine FamiliaES8 (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="PeliculaES39",Xtrema Cine Hindi (272p)
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="PeliculaES39",Xtrema Cine Latino (360p)
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="PeliculaES39",Xtrema Cine Suspenso (360p)
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="PeliculaES39",Xtrema Cine Terror (270p)
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="PeliculaES39",Xtrema SeriesES33 (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8

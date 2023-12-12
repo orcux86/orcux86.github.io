@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="CulturaES28;EducaES20",Canal Catorce (XHSPR-TDT1) (720p)
+https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="EducaES20",Educanal (720p) [Not 24/7]
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+#EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="EducaES20",EducaTV (720p) [Not 24/7]
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="EducaES20",Eduvision (1080p)
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-id="KBEV.us" tvg-logo="https://i.imgur.com/YFVrphZ.png" group-title="EducaES20",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="MarinTVEducationalChannel.us" tvg-logo="https://i.imgur.com/HsBBu8g.png" group-title="EducaES20",Marin TV Educational Channel (San Rafael CA) (1080p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6930291b02344cc88fec20504849dafd/playlist.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/kSMo53C.png" group-title="EducaES20",MINEDU IPTV 1 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/mbJ1FCQ.png" group-title="EducaES20",MINEDU IPTV 2 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="MultizonasTV.cr" tvg-logo="https://i.imgur.com/PD9TCu0.png" group-title="EducaES20",Multizonas TV (720p)
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="CulturaES28;EducaES20",NTV (720p)
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="EducaES20",Once México (1080p)
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="EducaES20",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="COETVChannel19.us" tvg-logo="https://i.imgur.com/8K1ww0r.png" group-title="EducaES20",San Luis Obispo County Office of EducaES20 COE-TV Channel 19 (1080p)
+https://vod.slocoe.org/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-logo="https://i.imgur.com/LbZkdca.png" group-title="EducaES20",Señal España (XHUNES-TDT) (720p)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-id="XHPBZCTDT2.mx" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="EducaES20",SET Televisión Canal 26.2 (720p) [Not 24/7]
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-logo="https://i.imgur.com/9qL4LJF.png" group-title="EducaES20",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUJAT.mx" tvg-logo="https://i.imgur.com/4demWOi.png" group-title="EducaES20",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="EducaES20",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-id="UChileTV.cl" tvg-logo="https://i.ibb.co/dGpwrLX/UChile-TV-logo-2020.png" group-title="CulturaES28;EducaES20",UChile TV (720p)
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Vive.ve" tvg-logo="https://i.imgur.com/VEYhkDq.png" group-title="EducaES20",Vive (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13P.cl" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="EstilosES6",13 Prime (720p)
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1 tvg-id="CinePride.us" tvg-logo="https://i.imgur.com/Y4Wgq8I.png" group-title="EstilosES6",CinePride (720p)
+https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
+#EXTINF:-1 tvg-id="EStyloTV.do" tvg-logo="https://i.imgur.com/GLpeqpp.png" group-title="EstilosES6",EStylo TV (720p)
+https://vdo2.streamgato.us:3035/live/estylotvlive.m3u8
+#EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="EstilosES6",Logos TV Salud (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFashionTV.us" tvg-logo="https://i.imgur.com/0OPh2Kh.png" group-title="EstilosES6",Pluto TV Fashion TV (720p)
+https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
+#EXTINF:-1 tvg-id="Wapp.cl" tvg-logo="https://i.imgur.com/Bv1yJ1d.png" group-title="EstilosES6",Wapp (1080p)
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8

@@ -1,0 +1,170 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="EntretenES84",13 Entretención (720p)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="EntretenES84",13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="EntretenES84",¡OPA! (1080p)
+https://cageu.bozztv.com/ssh101/ssh101/opacanal38/playlist.m3u8
+#EXTINF:-1 tvg-id="ACSNetwork.pr" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="EntretenES84",ACS Network (480p)
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="EntretenES84",Adult Swim East (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="AdultSwimWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="EntretenES84",Adult Swim West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="EntretenES84",Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="EntretenES84",Alegre TV (720p)
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://alternatv.ar/alternatv.png" group-title="CulturaES28;DocumES5;EntretenES84;GeneralES10;PeliculaES39;MusicES129",AlternaTV (720p)
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="EntretenES84;GeneralES10",América TeVé (720p)
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="EntretenES84",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="AventurasTV.ar" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="EntretenES84",Aventuras TV (360p)
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="EntretenES84",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="BonchesLatinosTV.do" tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="EntretenES84",Bonches Latinos TV (720p)
+https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
+#EXTINF:-1 tvg-id="BuenaTV.pr" tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="EntretenES84",Buena TV (1080p)
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:-1 tvg-id="IxchiguanEstereoTV.gt" tvg-logo="https://i.imgur.com/FMrB17k.png" group-title="EntretenES84",Canal 9 Ixchiguán (720p)
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-logo="https://i.imgur.com/bq29sfG.png" group-title="EntretenES84" user-agent="iPhone",Canal 10 Mar del Plata (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="Canal14Codazzi.co" tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="EntretenES84",Canal 14 Codazzi (720p)
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1 tvg-id="Canal15DTP.hn" tvg-logo="https://i.imgur.com/QQNcob1.png" group-title="EntretenES84",Canal 15 DTP (352p)
+https://emisoras.hn:8081/dtp/index.m3u8
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="EntretenES84",Central TV Chosica (614p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChileChannel.cl" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="EntretenES84;ViajesES8",Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="CibaenaTV.do" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="EntretenES84",Cibaeña TV (720p)
+https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="EntretenES84",Cinerama TV (480p) [Not 24/7]
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="EntretenES84",Ciudades Del Ocio TV (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="EntretenES84",Claro Visión TV (720p)
+https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="EntretenES84",COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="EntretenES84",Colosal TV (720p) [Not 24/7]
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="EntretenES84",Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/iNJu7Fu.png" group-title="EntretenES84",Crossing TV (Crossing Contenidos) (720p) [Not 24/7]
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+#EXTINF:-1 tvg-id="DejatedeHistoriasTV.es" tvg-logo="https://i.imgur.com/Vortgm7.png" group-title="EntretenES84",Déjate de Historias TV (1080p)
+https://ythls.armelin.one/channel/UChMCkc02GVSi89TrvhbRasA.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="EntretenES84;FamiliaES8",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="EntretenES84",Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GirasolTV.hn" tvg-logo="https://i.imgur.com/2t7A2yg.png" group-title="EntretenES84",Girasol TV (720p)
+https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
+#EXTINF:-1 tvg-id="GOTV.py" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="EntretenES84;MusicES129",GO TV (720p)
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 tvg-id="GuaroTV.ve" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" group-title="EntretenES84",Guaro TV (1080p)
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="HispaniaTV.pa" tvg-logo="https://i.imgur.com/lpVZgA4.jpg" group-title="EntretenES84",Hispania TV (1080p) [Not 24/7]
+https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+#EXTINF:-1 tvg-id="HTVLive.do" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="EntretenES84",HTV Live (1080p)
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+#EXTINF:-1 tvg-id="IberoamericaTV.es" tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="EntretenES84",IberoAmerica TV (1080p)
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
+#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="EntretenES84",Kanade (720p)
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+#EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="EntretenES84",LatacungaTV (720p)
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MalbecPlay.ar" tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png" group-title="EntretenES84",Malbec Play (1080p)
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MasTalk.ve" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="EntretenES84",Más Talk (1080p)
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id="MaximaTV.ar" tvg-logo="https://i.ibb.co/NmwTVkX/Screenshot-20230715-163842.jpg" group-title="EntretenES84",Maxima TV (540p)
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
+#EXTINF:-1 tvg-id="MDATelevision.ve" tvg-logo="https://i.imgur.com/AlY38PN.png" group-title="EntretenES84",MDA Televisión (720p)
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MetaVersusCR.cr" tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="EntretenES84",MetaVersus CR (480p)
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="EntretenES84",Metro TV (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="MetroTV.hn" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="EntretenES84",Metro TV (720p)
+https://emisoras.hn:8081/metrotv/index.m3u8
+#EXTINF:-1 tvg-id="RadioOmegaTV.hn" tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" group-title="EntretenES84",Omega TV (720p) [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV90s.cl" tvg-logo="https://i.imgur.com/rtZTw3F.png" group-title="AnimeES22;EntretenES84;PeliculaES39;SeriesES33",PlanetaTV 90s (720p)
+https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTelevision.ar" tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="EntretenES84",Play Television (720p)
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimales.es" tvg-logo="https://i.imgur.com/P2jEmG1.png" group-title="EntretenES84",Pluto TV Animales (288p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVMundoReal.es" tvg-logo="https://i.imgur.com/DHAjKJt.png" group-title="EntretenES84",Pluto TV Mundo Real (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="EntretenES84",Power Max Radio TV (720p)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-id="PulaTV.do" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="EntretenES84",Pula TV (720p)
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+#EXTINF:-1 tvg-id="RETV.do" tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="EntretenES84",R&E TV (480p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/ekhmygctur/ekhmygctur/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCarnavalTV.es" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="EntretenES84;MusicES129",Radio Carnaval TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="RadioYaucanaTV.pr" tvg-logo="https://i.imgur.com/QT0UgZk.png" group-title="EntretenES84",Radio Yaucana TV (720p)
+https://stmvideo2.livecastv.com/rytv2015/rytv2015/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioYguazuTV.ar" tvg-logo="https://i.imgur.com/kVi0ICm.png" group-title="EntretenES84",Radio Yguazú TV (480p)
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="EntretenES84",RadioInka (1080p) [Not 24/7]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="EntretenES84",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="EntretenES84",RCN Xtra (1080p)
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/jh1VknJ.png" group-title="EntretenES84",RetroMágico (720p)
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-id="SASTV.gt" tvg-logo="https://i.imgur.com/VShjB3o.png" group-title="EntretenES84",SAS TV (720p)
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1 tvg-id="SEOTV6.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="EntretenES84",SEO TV 6 (1080p)
+https://live.seo.tv.bo/live/6SEO.m3u8
+#EXTINF:-1 tvg-id="SomosTopoPointTV.do" tvg-logo="https://i.imgur.com/7Jx45yQ.png" group-title="EntretenES84;MusicES129",Somos Topo Point TV (1080p) [Not 24/7]
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+#EXTINF:-1 tvg-id="Super7FM.do" tvg-logo="https://i.imgur.com/TJEqwZo.png" group-title="EntretenES84",Super7FM (720p)
+https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+#EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="EntretenES84;NoticiaES92",Te Lo Cuento y Que...!!! (360p)
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="EntretenES84",Tele2000 (720p) [Not 24/7]
+https://servilive.com:3126/live/tele2000live.m3u8
+#EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="EntretenES84",Teleplay Sureste (360p)
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telerayo.hn" tvg-logo="https://i.imgur.com/jLQsU1u.png" group-title="EntretenES84",Telerayo (1080p)
+https://emisoras.hn:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-id="TicaTVPlus.cr" tvg-logo="https://i.imgur.com/zMdY7fy.png" group-title="EntretenES84",Tica TV+ (288p)
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+#EXTINF:-1 tvg-id="TVCentro272HD.hn" tvg-logo="https://i.imgur.com/Wo2scQf.jpg" group-title="EntretenES84",TV Centro 27.2 HD (720p)
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFacesPeru.pe" tvg-logo="https://i.imgur.com/PL0pTxs.png" group-title="EntretenES84",TV Faces Online (360p) [Not 24/7]
+https://tvdatta.com:3211/stream/play.m3u8
+#EXTINF:-1 tvg-id="TVPlus2.cl" tvg-logo="https://i.ibb.co/b25bhDc/TV-MAS-2.png" group-title="CulturaES28;EntretenES84",TV MÁS 2 (480p)
+https://marine2.miplay.cl/tateti/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="EntretenES84",TV Pop (720p)
+https://v4.tustreaming.cl/poptv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCARiBLatino.sx" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="EntretenES84",TVCARiB Latino (720p) [Not 24/7]
+https://tvc.mediacaribstream.com:5443/LiveApp/streams/503041699392698464410277.m3u8
+#EXTINF:-1 tvg-id="UniversTV.es" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="EntretenES84",Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-id="VariedTV.ar" tvg-logo="https://i.ibb.co/nDdGrQn/LOGO-ID-VARIEDTV-WEB.png" group-title="EntretenES84",VariedTV (480p)
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXParejas.mx" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="EntretenES84",ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Vorterix.ar" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="EntretenES84",Vorterix (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+#EXTINF:-1 tvg-id="WRUADT1.pr" tvg-logo="https://i.imgur.com/YtTlZq3.png" group-title="EntretenES84",WRUA-DT1 (Tiva TV) (720p)
+https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="EntretenES84",WTV Canal 20 (720p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-id="XLevelTV.pr" tvg-logo="https://i.imgur.com/VhvbyoM.png" group-title="EntretenES84",XLevel TV (1080p)
+https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
+#EXTINF:-1 tvg-id="ZonaPlayTV.cl" tvg-logo="https://i.imgur.com/GewcpHv.png" group-title="EntretenES84",Zona Play TV (720p)
+https://paneltv.online:1936/8100/8100/playlist.m3u8

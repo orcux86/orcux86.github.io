@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="ComediaES9",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="ComediaES9",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ComediaMadeinSpain.us" tvg-logo="https://i.imgur.com/8ddFdSQ.png" group-title="ComediaES9",Comedia Made in Spain (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
+#EXTINF:-1 tvg-id="HumorMax.ve" tvg-logo="https://i.imgur.com/bFUZwJ0.png" group-title="ComediaES9",Humor Max (720p) [Not 24/7]
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKenanyKel.us" tvg-logo="https://i.imgur.com/9PAY5Xz.png" group-title="ComediaES9",Pluto TV Kenan y Kel (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="SEOTV7.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="ComediaES9",SEO TV 7 (1080p)
+https://live.seo.tv.bo/live/7SEO.m3u8
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="ComediaES9",SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="ComediaES9",ViX Jajaja (1080p)
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="ComediaES9;PeliculaES39",Xtrema Cine ComediaES9 (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8

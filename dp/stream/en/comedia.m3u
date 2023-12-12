@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/TSuWOBP.png" group-title="ComediaEN27",Adult Swim Dream Corp LLC (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="ComediaEN27",AFV (720p)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="ComediaEN27",AFV FamiliaEN16
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ALF.us" tvg-logo="https://i.imgur.com/fWRs1gX.png" group-title="ComediaEN27;SeriesEN87",ALF
+https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
+#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="ComediaEN27",Camera Smile (480p)
+https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="ComediaEN27",ComediaEN27 Central East (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4947590ba40f75dc29c26b&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=400&terminate=false&userId=
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="ComediaEN27",ComediaEN27 Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="ComediaEN27",FailArmy
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FunnyorDie.us" tvg-logo="https://i.imgur.com/17hqLxR.png" group-title="ComediaEN27",Funny or Die (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-logo="https://i.imgur.com/e5W91v2.png" group-title="ComediaEN27",Humor Mill (1080p) [Not 24/7]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="ComediaEN27",Just for Laughs Gags (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="ComediaEN27",LOL! Network
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MST3K.us" tvg-logo="https://i.imgur.com/2LSdcga.png" group-title="ComediaEN27",Mystery CienciaEN8 Theater 3000 (MST3K)
+https://amg00163-shoutfactory-mst3k-dmr-gdk46.amagi.tv/playlist/amg00163-shoutfactory-mst3k-dmr/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVClassicTV.uk" tvg-logo="https://i.imgur.com/hGdXRMd.png" group-title="ComediaEN27",Pluto TV ClasicoEN43 TV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc
+#EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-logo="https://i.imgur.com/MTVrbd5.png" group-title="ComediaEN27",Pluto TV ComediaEN27 (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d3a00ad95e4718ae8d8db&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-logo="https://i.imgur.com/jmudbCz.png" group-title="ComediaEN27",Pluto TV ComediaEN27 Central (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4947590ba40f75dc29c26b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5ca4fefb-0728-11eb-a18c-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="ComediaEN27",Pluto TV ComediaEN27 Central AnimeEN21 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us" tvg-logo="https://i.imgur.com/FiM7Rbz.png" group-title="ComediaEN27",Pluto TV ComediaEN27 Central Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
+#EXTINF:-1 tvg-id="FunnyAF.us" tvg-logo="https://i.imgur.com/UCwjdtQ.png" group-title="ComediaEN27",Pluto TV Funny AF (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="RiffTrax.us" tvg-logo="https://i.imgur.com/hM4yKMn.png" group-title="ComediaEN27",Pluto TV RiffTrax (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d4e7e738977e2c310937/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us" tvg-logo="https://i.imgur.com/INcTSkj.png" group-title="ComediaEN27",Pluto TV SeriesEN87 Comedia (360p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="SlightlyOffIFC.us" tvg-logo="https://i.imgur.com/zMPpMbV.png" group-title="ComediaEN27",Pluto TV Slightly Off By IFC (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="SonyCanalComedias.us" tvg-logo="https://i.imgur.com/9QG3Jz6.png" group-title="ComediaEN27",Pluto TV Sony Canal Comedias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492bb931054f00073c0b4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVStandUp.uk" tvg-logo="https://i.imgur.com/cZdUQDe.png" group-title="ComediaEN27",Pluto TV Stand Up (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="TVLandSitcoms.us" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="ComediaEN27",Pluto TV TV Land Sitcoms (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-logo="https://i.imgur.com/8KWjY4o.png" group-title="ComediaEN27",STIRR Mystery CienciaEN8 Theater 3000 (1080p)
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-logo="https://i.imgur.com/rXORbti.png" group-title="ComediaEN27",TVS ComediaEN27 Network (720p)
+https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8

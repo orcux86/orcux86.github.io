@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13Kids.cl" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="NiñosES32",13 NiñosES32 (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="NiñosES32",BabyFirst
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="AnimeES22;NiñosES32",Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]
+https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="AnimeES22;NiñosES32",Cartoon Network FreeLive Latam 2 (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="AnimeES22;NiñosES32",Cartoon Network FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="AnimeES22;NiñosES32",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="AnimeES22;NiñosES32",Cartoonito FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="AnimeES22;NiñosES32",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="NiñosES32",Chinola TV (480p)
+https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="NiñosES32",Clan TVE (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="NiñosES32;ReligionES99",Dios Te Ve NiñosES32 (720p)
+https://emisoras.hn:8081/diostevekids/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="NiñosES32",Discovery NiñosES32 FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+#EXTINF:-1 tvg-id="Kidz.es" tvg-logo="https://i.imgur.com/iBgsCOV.png" group-title="NiñosES32",Kidz Atresmedia (720p) [Geo-blocked]
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF:-1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="NiñosES32",Logos TV NiñosES32 (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="NiñosES32",Pakapaka (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaJuniorTV.es" tvg-logo="https://i.imgur.com/EaYYKb7.png" group-title="NiñosES32",Planeta Junior TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://i.imgur.com/v5zkh4T.png" group-title="NiñosES32",PlanetaTV NiñosES32 (1080p)
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimakids.es" tvg-logo="https://i.imgur.com/MSGZ3S9.png" group-title="NiñosES32",Pluto TV Animakids (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="NiñosES32",Pluto TV Bob Esponja (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVGarfield.us" tvg-logo="https://i.imgur.com/EnmlANj.png" group-title="NiñosES32",Pluto TV Garfield (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVKids.es" tvg-logo="https://i.imgur.com/eilI830.png" group-title="NiñosES32",Pluto TV NiñosES32 (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="NickClasico.us" tvg-logo="https://i.imgur.com/yxOuiqj.png" group-title="NiñosES32",Pluto TV Nick Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="NickJrenEspanol.us" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="NiñosES32",Pluto TV Nick Jr. Latino (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVRugrats.us" tvg-logo="https://i.imgur.com/ZVtPBXM.png" group-title="NiñosES32",Pluto TV Rugrats (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVRugratsCrecidos.us" tvg-logo="https://i.imgur.com/nvstEkP.png" group-title="NiñosES32",Pluto TV Rugrats Crecidos (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVTeen.us" tvg-logo="https://i.imgur.com/lNJ5p5e.png" group-title="NiñosES32",Pluto TV Teen (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVTeenStars.es" tvg-logo="https://i.imgur.com/f0FXTXJ.png" group-title="NiñosES32",Pluto TV Teen Stars (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="NiñosES32",Pluto TV Toons Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="NiñosES32",SEO TV 2 NiñosES32 (1080p)
+https://live.seo.tv.bo/live/2SEO.m3u8
+#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="AnimeES22;NiñosES32",Super Kaos TV (360p)
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="AnimeES22;NiñosES32",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="AnimeES22;ClasicoES6;NiñosES32",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8

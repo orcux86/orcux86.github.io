@@ -1,0 +1,186 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="NoticiaES92",4DmásNoticias TV (1080p)
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="NoticiaES92",24/7 Canal de Noticias (720p)
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="NoticiaES92",101tv Málaga (1080p)
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="NoticiaES92",A24 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="NoticiaES92",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="NoticiaES92",ADN Radio (1080p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="EmpresaES6;LegalES38;NoticiaES92",ADOCCO TV (720p)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="NoticiaES92",América Tucumán (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="NoticiaES92",AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="NoticiaES92",Antena 21 (480p) [Not 24/7]
+https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="NoticiaES92",Atacama Noticias (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 tvg-id="AtmosferaTelevision.pe" tvg-logo="https://i.imgur.com/lJw0zFQ.png" group-title="NoticiaES92",Atmósfera TV (1080p)
+https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
+#EXTINF:-1 tvg-id="ATVArgentina.ar" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="NoticiaES92",ATV Argentina (540p)
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="NoticiaES92",ATV+
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="NoticiaES92",C5N (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.imgur.com/Cp4zJ7O.png" group-title="NoticiaES92",C9N (480p)
+https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NoticiaES92",Cablenoticias (1080p)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="GeneralES10;NoticiaES92",Canal 1 Mar Menor-Torre Pacheco (1080p)
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="NoticiaES92",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="GeneralES10;NoticiaES92",Canal 33 Tijuana
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="EmpresaES6;NoticiaES92",Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRed.es" tvg-logo="https://i.imgur.com/6pExdIs.png" group-title="NoticiaES92",Canal Red (1080p)
+https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
+#EXTINF:-1 tvg-id="DiarioTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="GeneralES10;NoticiaES92",Canal TRV (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalB.pe" tvg-logo="https://i.imgur.com/jueHIh2.png" group-title="NoticiaES92",CanalB (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFrOdZIiGOGFP5kk4xZgH6Q.m3u8
+#EXTINF:-1 tvg-id="Cauquenesnet.cl" tvg-logo="https://i.imgur.com/wU4VEGU.png" group-title="NoticiaES92",Cauquenesnet (720p)
+https://vdo.miserver.pro:3102/stream/play.m3u8
+#EXTINF:-1 tvg-id="CDNN23.ni" tvg-logo="https://i.ibb.co/6PW0s75/Cdnn23.png" group-title="NoticiaES92",CDNN 23 (1080p) [Not 24/7]
+http://138.117.4.70:8075/channel23/playlist.m3u8
+#EXTINF:-1 tvg-id="CHVNoticias.cl" tvg-logo="https://i.imgur.com/sx8Aaxr.png" group-title="NoticiaES92",CHV Noticias (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
+#EXTINF:-1 tvg-id="CnArNoticias.ar" tvg-logo="https://i.imgur.com/yOk4bHZ.png" group-title="NoticiaES92",CnAr Noticias (360p)
+https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-logo="https://i.imgur.com/t4EXijz.png" group-title="NoticiaES92",CNN Chile (720p)
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NoticiaES92",CNN en Español
+http://181.78.24.67:8010/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="ContactoBolivia.bo" tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/BOLIVIA%20COLORES.png" group-title="NoticiaES92",Contacto Bolivia [Geo-blocked]
+https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/playlist.m3u8
+#EXTINF:-1 tvg-id="DNews.us" tvg-logo="https://i.imgur.com/jF2BabI.png" group-title="NoticiaES92",DNews (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NoticiaES92",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ElConfidencialTV.es" tvg-logo="https://i.imgur.com/W2Qqz2F.png" group-title="NoticiaES92",El Confidencial TV (1080p)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-id="ElPaisTV.es" tvg-logo="https://i.imgur.com/JzAzsft.png" group-title="NoticiaES92",EL PAÍS TV (1080p)
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-id="Erbol.bo" tvg-logo="https://i.imgur.com/hn1KI7t.png" group-title="NoticiaES92",Erbol (720p)
+https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="NoticiaES92",Estrella NoticiaES92 (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="NoticiaES92",Euronews Spanish
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2577
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="NoticiaES92",Exitosa (720p)
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="NoticiaES92",Foro TV (1080p)
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="NoticiaES92",France 24 Español (1080p)
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/1LuNEX4.png" group-title="NoticiaES92",FuegoTV (Lima) (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
+#EXTINF:-1 tvg-id="HermesTVVigo.es" tvg-logo="https://i.imgur.com/o2ynw86.png" group-title="NoticiaES92",Hermes TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCv_HqaMNADVSi7A3jLrVPsA.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="NoticiaES92",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="NoticiaES92",HLN (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="NoticiaES92",Identidad TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="NoticiaES92",IP Noticias (1080p)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-id="LaIguanaTV.ve" tvg-logo="https://i.ibb.co/5r3hBNz/logo-footer.png" group-title="NoticiaES92",La Iguana TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCCc2H9_eNnU7ucq2n7Sh3Rg.m3u8
+#EXTINF:-1 tvg-id="Meganoticias.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/512px-Meganoticias2019.png" group-title="NoticiaES92",Meganoticias (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-logo="https://i.imgur.com/iP0LL9R.png" group-title="NoticiaES92",MVM Noticias [Geo-blocked]
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-id="NCTV.cl" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="NoticiaES92",NCTV (1080p)
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="NoticiaES92",NHK World Premium (720p) [Not 24/7]
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:-1 tvg-id="NPlus.mx" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="NoticiaES92",NMás (1080p)
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 tvg-id="NorteInformativoTV.cr" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="NoticiaES92",Norte Informativo TV (240p)
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-logo="https://i.imgur.com/JCBZaHf.png" group-title="NoticiaES92",Noticias Canal 10 (360p) [Not 24/7]
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-id="NoticiasCaracolAhora.co" tvg-logo="https://i.imgur.com/FLt0fwa.png" group-title="NoticiaES92",Noticias Caracol Ahora (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="NoticiaES92",Noticiero 90 Minutos (720p) [Not 24/7]
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTMexico.mx" tvg-logo="https://i.imgur.com/W2E0fSy.png" group-title="NoticiaES92",NRT México Canal 4 (720p)
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="NoticiaES92",NTN24 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
+#EXTINF:-1 tvg-id="NuevoMundoTV.gt" tvg-logo="https://i.imgur.com/j3OGO3V.png" group-title="NoticiaES92",Nuevo Mundo TV (720p)
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-id="Onda15TV.es" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="MusicES129;NoticiaES92",Onda 15 TV (224p)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-id="OndaValenciaTV.es" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="MusicES129;NoticiaES92",Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="NoticiaES92",PBO Digital (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+#EXTINF:-1 tvg-id="PlusTV.pa" tvg-logo="https://i.imgur.com/MmpwhAG.png" group-title="NoticiaES92",Plus TV (720p) [Not 24/7]
+https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
+#EXTINF:-1 tvg-id="PoliciaTV.do" tvg-logo="https://i.imgur.com/jIwlQK3.png" group-title="LegalES38;NoticiaES92",Policía TV (480p) [Not 24/7]
+https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8
+#EXTINF:-1 tvg-id="PuranoticiaTV.cl" tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="NoticiaES92",Puranoticia TV (720p)
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" group-title="NoticiaES92",Radio Isla TV (720p)
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="NoticiaES92",Radio Uno Tacna (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
+#EXTINF:-1 tvg-id="RDTV.uy" tvg-logo="https://i.imgur.com/V5ZyMUy.png" group-title="NoticiaES92",Raquel Daruech TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8
+#EXTINF:-1 tvg-id="RDN.do" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="NoticiaES92",RDN (720p)
+https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="NoticiaES92",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-id="RNN.do" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="NoticiaES92",RNN (720p) [Not 24/7]
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="NoticiaES92",RT en Español (1080p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="NoticiaES92",RTU (1080p) [Not 24/7]
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="NoticiaES92",RTV Total (Yurimaguas) (480p) [Not 24/7]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-id="SCCurrents.us" tvg-logo="https://i.imgur.com/8FZsNyK.png" group-title="NoticiaES92",SC Currents
+https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/playlist.m3u8
+#EXTINF:-1 tvg-id="SucesoTV.py" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png" group-title="NoticiaES92",Suceso TV (720p)
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/PktzDCH.png" group-title="NoticiaES92",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="EntretenES84;NoticiaES92",Te Lo Cuento y Que...!!! (360p)
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-logo="https://i.imgur.com/cNYDqhp.png" group-title="NoticiaES92",TeleCauquenes (720p)
+https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TelefeNoticias.us" tvg-logo="https://i.imgur.com/GwdSxzV.png" group-title="NoticiaES92",Telefe Noticias (720p) [Not 24/7]
+https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="NoticiaES92",TeleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="TelevideoRegional.ar" tvg-logo="https://i.imgur.com/zLAocPn.png" group-title="NoticiaES92",Televideo Regional (480p)
+https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisiondelEste.do" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="NoticiaES92;ViajesES8",Televisión del Este (720p)
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
+#EXTINF:-1 tvg-id="TN23.mx" tvg-logo="https://i.imgur.com/h4Hiewk.png" group-title="NoticiaES92",TN23 México (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/TN23/139a1b22959c10235fe85f3db0041ecf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="NoticiaES92",TN Todo Noticias (1080p)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="NoticiaES92",TRA 2 (576p)
+https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_dabf38f04a9d11ee8eeb577c693b7d74/index.m3u8
+#EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="NoticiaES92",TRA Noticias (576p)
+https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_5d48c3204a9b11eea0c82f8ad2e16732/index.m3u8
+#EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="NoticiaES92",TVN (720p)
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="VaticanNewsEspanol.va" tvg-logo="https://i.imgur.com/4kSW6RM.jpg" group-title="NoticiaES92;ReligionES99",Vatican NoticiaES92 Español (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="NoticiaES92",Visión Noticias Perú (VNP) (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="NoticiaES92",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8

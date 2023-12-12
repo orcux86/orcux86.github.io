@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cruise1stTV.uk" tvg-logo="https://i.imgur.com/L1bysJS.png" group-title="VentasEN20",Cruise1st TV (1080p) [Geo-blocked]
+https://ythls.armelin.one/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8
+#EXTINF:-1 tvg-id="ExpoChannel.au" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="VentasEN20",Expo Channel (360p)
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="GemShoppingNetwork.us" tvg-logo="https://i.imgur.com/WlHEpAu.png" group-title="VentasEN20",Gem Shopping Network (720p)
+https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GemsTV.uk" tvg-logo="https://i.imgur.com/WgaJufI.png" group-title="VentasEN20",Gems TV (360p)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 tvg-id="GSShop.kr" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="VentasEN20",GS VentasEN20 (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseShoppingChannel.us" tvg-logo="https://i.imgur.com/ZNjtOdZ.png" group-title="VentasEN20",Horse Shopping Channel (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
+#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="VentasEN20",HSN (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-logo="https://i.imgur.com/su6GH7i.png" group-title="VentasEN20",Ideal World TV (1080p)
+https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
+#EXTINF:-1 tvg-id="JewelryTV.us" tvg-logo="https://i.imgur.com/mBcwks7.png" group-title="VentasEN20",Jewelry Television (720p)
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="QVC3.us" tvg-logo="https://i.imgur.com/edswdOO.png" group-title="VentasEN20",QVC 3 (1080p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-id="ShopHQ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png" group-title="VentasEN20",VentasEN20 HQ (720p)
+https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="VentasEN20",VentasEN20 LC (1080p)
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+#EXTINF:-1 tvg-id="KCKSLD10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="VentasEN20",VentasEN20 LC (KCKS-LD10) (480p) [Not 24/7]
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 tvg-id="QVC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/512px-QVC_logo_2019.svg.png" group-title="VentasEN20",STIRR QVC (720p)
+https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
+#EXTINF:-1 tvg-id="TeaTVKhmer.vn" tvg-logo="https://i.imgur.com/u6SMbOQ.jpg" group-title="VentasEN20",Tea TV 2 (720p)
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TJC.uk" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="VentasEN20",TJC (1080p)
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-id="TSC.ca" tvg-logo="https://i.imgur.com/9w9SSIC.png" group-title="VentasEN20",Today's Shopping Choice (TSC) (720p)
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:-1 tvg-id="TVSRareCollectibles.us" tvg-logo="https://i.imgur.com/7kr5XAW.png" group-title="VentasEN20",TVS Rare Collectibles (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+#EXTINF:-1 tvg-id="TVSSiloDiscountNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="VentasEN20",TVS Silo Discount Network (484p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8
+#EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="VentasEN20",TVSN (1080p)
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
