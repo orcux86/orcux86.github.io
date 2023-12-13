@@ -11,7 +11,7 @@ https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="NoticiaES92",ADN Radio (1080p)
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="EmpresaES6;LegalES38;NoticiaES92",ADOCCO TV (720p)
+#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="NoticiaES92",ADOCCO TV (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="NoticiaES92",América Tucumán (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
@@ -33,17 +33,17 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="NoticiaES92",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="GeneralES10;NoticiaES92",Canal 1 Mar Menor-Torre Pacheco (1080p)
+#EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="NoticiaES92",Canal 1 Mar Menor-Torre Pacheco (1080p)
 https://directo.tuwebtv.es/canal1.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="NoticiaES92",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="GeneralES10;NoticiaES92",Canal 33 Tijuana
+#EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="NoticiaES92",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="EmpresaES6;NoticiaES92",Canal E (720p)
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="NoticiaES92",Canal E (720p)
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRed.es" tvg-logo="https://i.imgur.com/6pExdIs.png" group-title="NoticiaES92",Canal Red (1080p)
 https://ythls.armelin.one/channel/UCky112obBMG68Nw5MrSNNPA.m3u8
-#EXTINF:-1 tvg-id="DiarioTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="GeneralES10;NoticiaES92",Canal TRV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="DiarioTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="NoticiaES92",Canal TRV (480p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalB.pe" tvg-logo="https://i.imgur.com/jueHIh2.png" group-title="NoticiaES92",CanalB (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCFrOdZIiGOGFP5kk4xZgH6Q.m3u8
@@ -119,15 +119,15 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 https://ythls.armelin.one/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
 #EXTINF:-1 tvg-id="NuevoMundoTV.gt" tvg-logo="https://i.imgur.com/j3OGO3V.png" group-title="NoticiaES92",Nuevo Mundo TV (720p)
 https://tvlatina.live:1936/8008/8008/playlist.m3u8
-#EXTINF:-1 tvg-id="Onda15TV.es" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="MusicES129;NoticiaES92",Onda 15 TV (224p)
+#EXTINF:-1 tvg-id="Onda15TV.es" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="NoticiaES92",Onda 15 TV (224p)
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-id="OndaValenciaTV.es" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="MusicES129;NoticiaES92",Onda Valencia (720p)
+#EXTINF:-1 tvg-id="OndaValenciaTV.es" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="NoticiaES92",Onda Valencia (720p)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="NoticiaES92",PBO Digital (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 #EXTINF:-1 tvg-id="PlusTV.pa" tvg-logo="https://i.imgur.com/MmpwhAG.png" group-title="NoticiaES92",Plus TV (720p) [Not 24/7]
 https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
-#EXTINF:-1 tvg-id="PoliciaTV.do" tvg-logo="https://i.imgur.com/jIwlQK3.png" group-title="LegalES38;NoticiaES92",Policía TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="PoliciaTV.do" tvg-logo="https://i.imgur.com/jIwlQK3.png" group-title="NoticiaES92",Policía TV (480p) [Not 24/7]
 https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8
 #EXTINF:-1 tvg-id="PuranoticiaTV.cl" tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="NoticiaES92",Puranoticia TV (720p)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
@@ -156,7 +156,7 @@ https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/pla
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/PktzDCH.png" group-title="NoticiaES92",T13 (720p)
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="EntretenES84;NoticiaES92",Te Lo Cuento y Que...!!! (360p)
+#EXTINF:-1 tvg-id="TeloCuentoyQue.ar" tvg-logo="https://i.imgur.com/SWh8ZiH.png" group-title="NoticiaES92",Te Lo Cuento y Que...!!! (360p)
 https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-logo="https://i.imgur.com/cNYDqhp.png" group-title="NoticiaES92",TeleCauquenes (720p)
 https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
@@ -166,7 +166,7 @@ https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 #EXTINF:-1 tvg-id="TelevideoRegional.ar" tvg-logo="https://i.imgur.com/zLAocPn.png" group-title="NoticiaES92",Televideo Regional (480p)
 https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisiondelEste.do" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="NoticiaES92;ViajesES8",Televisión del Este (720p)
+#EXTINF:-1 tvg-id="TelevisiondelEste.do" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="NoticiaES92",Televisión del Este (720p)
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
 #EXTINF:-1 tvg-id="TN23.mx" tvg-logo="https://i.imgur.com/h4Hiewk.png" group-title="NoticiaES92",TN23 México (720p) [Not 24/7]
 https://dbdfj5y8nz2u4.cloudfront.net/TN23/139a1b22959c10235fe85f3db0041ecf.sdp/playlist.m3u8
@@ -178,7 +178,7 @@ https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_dabf38f04a9d1
 https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_5d48c3204a9b11eea0c82f8ad2e16732/index.m3u8
 #EXTINF:-1 tvg-id="TVN.pa" tvg-logo="https://i.imgur.com/tGeHwxd.png" group-title="NoticiaES92",TVN (720p)
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="VaticanNewsEspanol.va" tvg-logo="https://i.imgur.com/4kSW6RM.jpg" group-title="NoticiaES92;ReligionES99",Vatican NoticiaES92 Español (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="VaticanNewsEspanol.va" tvg-logo="https://i.imgur.com/4kSW6RM.jpg" group-title="NoticiaES92",Vatican NoticiaES92 Español (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 #EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="NoticiaES92",Visión Noticias Perú (VNP) (720p) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8

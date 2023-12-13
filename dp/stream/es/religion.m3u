@@ -27,7 +27,7 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
 #EXTINF:-1 tvg-id="CandelariaTV.gt" tvg-logo="https://i.imgur.com/Mq1yoUQ.png" group-title="ReligionES99",Candelaria TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8
-#EXTINF:-1 tvg-id="CaritasTV.py" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="GeneralES10;ReligionES99",Cáritas TV (1080p)
+#EXTINF:-1 tvg-id="CaritasTV.py" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="ReligionES99",Cáritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNEspanol.us" tvg-logo="https://i.imgur.com/Gm4fs9W.png" group-title="ReligionES99",CBN Español (1080p)
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
@@ -43,7 +43,7 @@ https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision3
 https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DiosTeVe.hn" tvg-logo="https://i.imgur.com/7hNwUV2.png" group-title="ReligionES99",Dios Te Ve (720p)
 https://emisoras.hn:8081/diostevetv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="NiñosES32;ReligionES99",Dios Te Ve NiñosES32 (720p)
+#EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="ReligionES99",Dios Te Ve NiñosES32 (720p)
 https://emisoras.hn:8081/diostevekids/playlist.m3u8
 #EXTINF:-1 tvg-id="DNJTV.pr" tvg-logo="https://i.imgur.com/YqTcGJZ.png" group-title="ReligionES99",DNJ TV (720p)
 https://eu1.servers10.com:8081/wegqaafnsa/index.m3u8
@@ -105,7 +105,7 @@ https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="ReligionES99",Nazarenas TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" group-title="MusicES129;ReligionES99",Nueva Vida TV (720p)
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" group-title="ReligionES99",Nueva Vida TV (720p)
 https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="ReligionES99",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
@@ -185,7 +185,7 @@ https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="ReligionES99",Unife TV (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
-#EXTINF:-1 tvg-id="VaticanNewsEspanol.va" tvg-logo="https://i.imgur.com/4kSW6RM.jpg" group-title="NoticiaES92;ReligionES99",Vatican NoticiaES92 Español (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="VaticanNewsEspanol.va" tvg-logo="https://i.imgur.com/4kSW6RM.jpg" group-title="ReligionES99",Vatican NoticiaES92 Español (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 #EXTINF:-1 tvg-id="VidaTV.cl" tvg-logo="https://i.imgur.com/wELUN0N.png" group-title="ReligionES99",Vida TV (1080p)
 http://181.224.64.2:89/vidatv/index.m3u8

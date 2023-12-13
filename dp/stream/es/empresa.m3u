@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="EmpresaES6;LegalES38;NoticiaES92",ADOCCO TV (720p)
+#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="EmpresaES6",ADOCCO TV (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="AgendaMineraTV.bo" tvg-logo="https://i.imgur.com/hg2PiIn.png" group-title="EmpresaES6",Agenda Minera TV (720p)
 https://srv.panelcast.net/amitel/amitel/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="EmpresaES6;NoticiaES92",Canal E (720p)
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="EmpresaES6",Canal E (720p)
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KrolusTV.es" tvg-logo="https://i.imgur.com/VlqovOS.png" group-title="EmpresaES6",Krolus TV (1080p)
 https://vcnkrolustv.teleosmedia.com/linear/krolustv/krolustv/playlist.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="EmpresaES6;LegalES38;NoticiaES92",ADOCCO TV (720p)
+#EXTINF:-1 tvg-id="ADOCCOTV.do" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="LegalES38",ADOCCO TV (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="AsambleaTV.ni" tvg-logo="https://i.imgur.com/ABywgtf.png" group-title="LegalES38",Asamblea TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCYKbJljhlPac_5NY1NxohFQ.m3u8
@@ -49,7 +49,7 @@ https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-id="PHXTV.us" tvg-logo="https://i.imgur.com/RkTKR6x.png" group-title="LegalES38",PHXTV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/chunklist.m3u8
-#EXTINF:-1 tvg-id="PoliciaTV.do" tvg-logo="https://i.imgur.com/jIwlQK3.png" group-title="LegalES38;NoticiaES92",Policía TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="PoliciaTV.do" tvg-logo="https://i.imgur.com/jIwlQK3.png" group-title="LegalES38",Policía TV (480p) [Not 24/7]
 https://cdn2.streamgato.us/policiard/policiard/playlist.m3u8
 #EXTINF:-1 tvg-id="PrescottValleyTV.us" tvg-logo="https://i.imgur.com/tIwLdzd.png" group-title="LegalES38",Prescott Valley TV
 https://live-h1.frontlayer.net/fl207891/live/chunks.m3u8
