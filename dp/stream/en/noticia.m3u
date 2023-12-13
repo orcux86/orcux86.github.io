@@ -17,7 +17,7 @@ https://lnc-kmbc.tubi.video/playlist.m3u8
 https://lnc-wapt.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WJCLDT1.us" tvg-logo="https://i.imgur.com/Q4B9h5L.png" group-title="NoticiaEN163",ABC 22 Savannah GA (WJCL) (720p)
 https://lnc-wjcl.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="KXXVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 25 NoticiaEN163 Central Texas (KXXV-DT1)
+#EXTINF:-1 tvg-id="KXXVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="NoticiaEN163",ABC 25 NoticiaEN163 Central Texas (KXXV-DT1)
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 #EXTINF:-1 tvg-id="WPBFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="NoticiaEN163",ABC 25 West Palm Beach FL (WPBF) (720p)
 https://lnc-wpbf.tubi.video/playlist.m3u8
